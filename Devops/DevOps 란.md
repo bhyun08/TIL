@@ -1,4 +1,3 @@
-
 ## DevOps란 ?
 
 DevOps는 소프트웨어 **개발**(development)과 **IT운영**(operations)의 합성어로, 개발과 운영의 경계를 허물고 통합하고자 하는 문화 또는 철학이다.

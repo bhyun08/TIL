@@ -11,8 +11,12 @@
             "id": "77d36fcb01097ff3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Annotation/@GeneratedValue.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring/Annotation/@GeneratedValue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spring/Annotation/@GeneratedValue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spring/Annotation/@GeneratedValue.md"
+              }
             }
           }
         ]
@@ -140,6 +148,9 @@
   },
   "active": "77d36fcb01097ff3",
   "lastOpenFiles": [
+    "Database/DTO.md",
+    "Database/키(Key).md",
+    "README.md",
     "Spring/Annotation/Lombok Annotation/@Setter.md",
     "Spring/Annotation/Lombok Annotation/@NoArgsConstructor.md",
     "Spring/Annotation/Lombok Annotation/@Getter.md",
@@ -172,9 +183,6 @@
     "Devops/Container/Docker/Docker 란.md",
     "Devops/Container/Kubernetes",
     "Devops/Container/Docker",
-    "Devops/Container/Container 란.md",
-    "Database/SQL/SQL 이란.md",
-    "Database/트랜젝션(Transaction).md",
-    "Database/관계형 데이터베이스 (RDB).md"
+    "Devops/Container/Container 란.md"
   ]
 }

@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "b7877d5fe58c03ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e76d1f7d1ba4c48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77d36fcb01097ff3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "43eaa389a7120780",
+    "type": "split",
+    "children": [
+      {
+        "id": "26f54103f2e97a97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfbca15b10d982f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "530d3786a9268fc5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30074cce8d51bf40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d198581ee04694c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca853522a78b895b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7519b7997dd37b3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3158b5f101d26a1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6330ae2c225911ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6c83959f07c70256",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "77d36fcb01097ff3",
+  "lastOpenFiles": [
+    "Spring/Annotation/Lombok Annotation/@Setter.md",
+    "Spring/Annotation/Lombok Annotation/@NoArgsConstructor.md",
+    "Spring/Annotation/Lombok Annotation/@Getter.md",
+    "Spring/Annotation/Lombok Annotation/@AllArgsConstructor.md",
+    "Spring/Annotation/JPA Annotation/@Id.md",
+    "Spring/Annotation/Lombok Annotation",
+    "Spring/Annotation/JPA Annotation",
+    "Spring/Annotation/@RestController.md",
+    "Spring/Annotation/@ResponseBody.md",
+    "Spring/Annotation/@GetMapping.md",
+    "Spring/Annotation/@GeneratedValue.md",
+    "Spring/Annotation/@Controller.md",
+    "Spring/Annotation",
+    "Spring/JPA",
+    "OS/Linux/무제 파일.md",
+    "OS/Linux",
+    "Network/HTTP/HTTP 란.md",
+    "Network/HTTP/HTTP Structure(구조).md",
+    "Network/HTTP/HTTP Status Code(상태코드).md",
+    "Network/HTTP/HTTP Method(메서드).md",
+    "Network/HTTP",
+    "Language/Java/무제 파일.md",
+    "Language/Java/무제 파일 1.md",
+    "Language/Java/Java 란.md",
+    "Language/Java/JVM.md",
+    "Language/Java",
+    "Language/Go/Go언어 란.md",
+    "Language/Go",
+    "Devops/DevOps 란.md",
+    "Devops/Container/Docker/Docker 란.md",
+    "Devops/Container/Kubernetes",
+    "Devops/Container/Docker",
+    "Devops/Container/Container 란.md",
+    "Database/SQL/SQL 이란.md",
+    "Database/트랜젝션(Transaction).md",
+    "Database/관계형 데이터베이스 (RDB).md"
+  ]
+}

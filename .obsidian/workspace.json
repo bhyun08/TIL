@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Annotation/@GeneratedValue.md",
+                "file": "Database/데이터베이스 란.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Annotation/@GeneratedValue.md",
+                "file": "Database/데이터베이스 란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Annotation/@GeneratedValue.md",
+                "file": "Database/데이터베이스 란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Annotation/@GeneratedValue.md"
+                "file": "Database/데이터베이스 란.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "77d36fcb01097ff3",
   "lastOpenFiles": [
+    "Database/관계형 데이터베이스 (RDB).md",
+    "Spring/Annotation/@GeneratedValue.md",
     "Database/DTO.md",
     "Database/키(Key).md",
     "README.md",
@@ -161,7 +163,6 @@
     "Spring/Annotation/@RestController.md",
     "Spring/Annotation/@ResponseBody.md",
     "Spring/Annotation/@GetMapping.md",
-    "Spring/Annotation/@GeneratedValue.md",
     "Spring/Annotation/@Controller.md",
     "Spring/Annotation",
     "Spring/JPA",
@@ -182,7 +183,6 @@
     "Devops/DevOps 란.md",
     "Devops/Container/Docker/Docker 란.md",
     "Devops/Container/Kubernetes",
-    "Devops/Container/Docker",
-    "Devops/Container/Container 란.md"
+    "Devops/Container/Docker"
   ]
 }

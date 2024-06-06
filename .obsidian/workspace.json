@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Annotation/Lombok Annotation/@Setter.md",
+                "file": "Language/Java/생성자.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Annotation/Lombok Annotation/@Setter.md",
+                "file": "Language/Java/생성자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Annotation/Lombok Annotation/@Setter.md",
+                "file": "Language/Java/생성자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Annotation/Lombok Annotation/@Setter.md"
+                "file": "Language/Java/생성자.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "77d36fcb01097ff3",
   "lastOpenFiles": [
+    "Spring/Annotation/Lombok Annotation/@Setter.md",
     "Database/데이터베이스 란.md",
     "Database/관계형 데이터베이스 (RDB).md",
     "Spring/Annotation/@GeneratedValue.md",
     "Database/DTO.md",
     "Database/키(Key).md",
     "README.md",
-    "Spring/Annotation/Lombok Annotation/@Setter.md",
     "Spring/Annotation/Lombok Annotation/@NoArgsConstructor.md",
     "Spring/Annotation/Lombok Annotation/@Getter.md",
     "Spring/Annotation/Lombok Annotation/@AllArgsConstructor.md",
@@ -175,7 +175,7 @@
     "Network/HTTP/HTTP Method(메서드).md",
     "Network/HTTP",
     "Language/Java/무제 파일.md",
-    "Language/Java/무제 파일 1.md",
+    "Language/Java/생성자.md",
     "Language/Java/Java 란.md",
     "Language/Java/JVM.md",
     "Language/Java",

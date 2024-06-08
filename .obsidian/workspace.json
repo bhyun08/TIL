@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Theory/Getter 메서드.md",
+                "file": "Spring/Theory/Setter 메서드.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Theory/Getter 메서드.md",
+                "file": "Spring/Theory/Setter 메서드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Theory/Getter 메서드.md",
+                "file": "Spring/Theory/Setter 메서드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Theory/Getter 메서드.md"
+                "file": "Spring/Theory/Setter 메서드.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "6bf1c57793d3868a",
   "lastOpenFiles": [
+    "Spring/Theory/Getter 메서드.md",
     "Spring/Annotation/Lombok Annotation/@Setter.md",
     "Spring/Annotation/Lombok Annotation/@Getter.md",
     "Spring/Annotation/@Controller.md",
     "Spring/Annotation/@GetMapping.md",
     "Spring/Theory/Setter 메서드.md",
-    "Spring/Theory/Getter 메서드.md",
     "Spring/Theory/DTO.md",
     "OS/Linux/무제 파일.md",
     "Spring/Annotation/JPA Annotation/@Id.md",

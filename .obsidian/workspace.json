@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Annotation/JPA Annotation/@Id.md",
+                "file": "Spring/Theory/Getter 메서드.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6bf1c57793d3868a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Annotation/JPA Annotation/@Id.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Annotation/JPA Annotation/@Id.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spring/Annotation/JPA Annotation/@Id.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,30 +151,32 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cfbca15b10d982f2",
+  "active": "6bf1c57793d3868a",
   "lastOpenFiles": [
-    "Spring/무제 폴더",
+    "Spring/Annotation/Lombok Annotation/@Setter.md",
+    "Spring/Annotation/Lombok Annotation/@Getter.md",
+    "Spring/Annotation/@Controller.md",
+    "Spring/Annotation/@GetMapping.md",
+    "Spring/Theory/Setter 메서드.md",
+    "Spring/Theory/Getter 메서드.md",
+    "Spring/Theory/DTO.md",
+    "OS/Linux/무제 파일.md",
+    "Spring/Annotation/JPA Annotation/@Id.md",
+    "Spring/Theory",
     "Spring/Annotation/@RestController.md",
     "Spring/Annotation/@ResponseBody.md",
-    "Spring/Annotation/@GetMapping.md",
-    "Spring/Annotation/@Controller.md",
     "Spring/Annotation/JPA Annotation/@GeneratedValue.md",
     "Language/Java/생성자.md",
-    "Spring/DTO.md",
     "README.md",
-    "Spring/Annotation/Lombok Annotation/@Setter.md",
     "Database/데이터베이스 란.md",
     "Database/관계형 데이터베이스 (RDB).md",
     "Database/키(Key).md",
     "Spring/Annotation/Lombok Annotation/@NoArgsConstructor.md",
-    "Spring/Annotation/Lombok Annotation/@Getter.md",
     "Spring/Annotation/Lombok Annotation/@AllArgsConstructor.md",
-    "Spring/Annotation/JPA Annotation/@Id.md",
     "Spring/Annotation/Lombok Annotation",
     "Spring/Annotation/JPA Annotation",
     "Spring/Annotation",
     "Spring/JPA",
-    "OS/Linux/무제 파일.md",
     "OS/Linux",
     "Network/HTTP/HTTP 란.md",
     "Network/HTTP/HTTP Structure(구조).md",
@@ -180,9 +187,7 @@
     "Language/Java/Java 란.md",
     "Language/Java/JVM.md",
     "Language/Java",
-    "Language/Go/Go언어 란.md",
     "Language/Go",
-    "Devops/Container/Kubernetes",
-    "Devops/Container/Docker"
+    "Devops/Container/Kubernetes"
   ]
 }

@@ -15,3 +15,5 @@ public class MyClass {
 이렇게 생성된 getter 메서드를 사용하여 클래스의 필드에 접근이 가능하다
 
 `@Getter`는 클래스의 모든 필드에 대해 getter 메서드를 생성한다. 만약 특정 필드에 대해서만 getter 메서드를 생성하고 싶은 경우에는 `@Getter` 어노테이션에 `@Getter(AccessLevel.NONE)`과 같이 접근 수준을 지정 해야한다. 또한 `@Getter` 어노테이션을 필드 레벨에 사용하여 특정 필드에만 getter 메서드를 생성하도록 지정할 수도 있다.
+
+[[Getter 메서드]]

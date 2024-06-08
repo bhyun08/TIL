@@ -14,8 +14,19 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "f1881947f3b3feb0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +149,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ccbc064cd21a9810",
+  "active": "f1881947f3b3feb0",
   "lastOpenFiles": [
     "Language/Java/Theory/Getter 메서드.md",
     "Language/Java/무제 파일.md",

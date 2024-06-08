@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3e76d1f7d1ba4c48",
+        "id": "eef9bbb34b64a5bb",
         "type": "tabs",
         "children": [
           {
-            "id": "6bf1c57793d3868a",
+            "id": "ccbc064cd21a9810",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Language/Java/생성자.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "694cb43f3a19ffb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Language/Java/Getter 메서드.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language/Java/생성자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language/Java/생성자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Language/Java/생성자.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,11 +138,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cfbca15b10d982f2",
+  "active": "ccbc064cd21a9810",
   "lastOpenFiles": [
-    "Language/Java/무제 폴더",
-    "Language/Java/Setter 메서드.md",
-    "Language/Java/Getter 메서드.md",
+    "Language/Java/Theory/Getter 메서드.md",
+    "Language/Java/무제 파일.md",
+    "Language/Java/Theory/생성자.md",
+    "Language/Java/Theory",
+    "Language/Java/Theory/Setter 메서드.md",
     "Spring/Annotation/Lombok Annotation/@Setter.md",
     "Spring/Annotation/Lombok Annotation/@Getter.md",
     "Spring/Annotation/@Controller.md",
@@ -174,7 +156,6 @@
     "Spring/Annotation/@RestController.md",
     "Spring/Annotation/@ResponseBody.md",
     "Spring/Annotation/JPA Annotation/@GeneratedValue.md",
-    "Language/Java/생성자.md",
     "README.md",
     "Database/데이터베이스 란.md",
     "Database/관계형 데이터베이스 (RDB).md",
@@ -191,10 +172,8 @@
     "Network/HTTP/HTTP Status Code(상태코드).md",
     "Network/HTTP/HTTP Method(메서드).md",
     "Network/HTTP",
-    "Language/Java/무제 파일.md",
     "Language/Java/Java 란.md",
     "Language/Java",
-    "Language/Go",
-    "Devops/Container/Kubernetes"
+    "Language/Go"
   ]
 }

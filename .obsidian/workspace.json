@@ -14,19 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "f1881947f3b3feb0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.2"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,8 +138,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f1881947f3b3feb0",
+  "active": "cfbca15b10d982f2",
   "lastOpenFiles": [
+    "Network/OSI 7 Layers/무제 폴더",
+    "Network/OSI 7 Layers",
     "Language/Java/Theory/Getter 메서드.md",
     "Language/Java/무제 파일.md",
     "Language/Java/Theory/생성자.md",
@@ -184,7 +175,6 @@
     "Network/HTTP/HTTP Method(메서드).md",
     "Network/HTTP",
     "Language/Java/Java 란.md",
-    "Language/Java",
-    "Language/Go"
+    "Language/Java"
   ]
 }

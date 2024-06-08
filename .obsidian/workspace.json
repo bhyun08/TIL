@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/DTO.md",
+                "file": "Spring/Annotation/JPA Annotation/@GeneratedValue.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/DTO.md",
+                "file": "Spring/Annotation/JPA Annotation/@GeneratedValue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/DTO.md",
+                "file": "Spring/Annotation/JPA Annotation/@GeneratedValue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/DTO.md"
+                "file": "Spring/Annotation/JPA Annotation/@GeneratedValue.md"
               }
             }
           }
@@ -148,13 +148,16 @@
   },
   "active": "cfbca15b10d982f2",
   "lastOpenFiles": [
+    "Spring/Annotation/@GetMapping.md",
+    "Spring/Annotation/@ResponseBody.md",
+    "Spring/Annotation/@RestController.md",
     "Language/Java/생성자.md",
+    "Spring/DTO.md",
     "README.md",
     "Spring/Annotation/Lombok Annotation/@Setter.md",
     "Database/데이터베이스 란.md",
     "Database/관계형 데이터베이스 (RDB).md",
-    "Spring/Annotation/@GeneratedValue.md",
-    "Spring/DTO.md",
+    "Spring/Annotation/JPA Annotation/@GeneratedValue.md",
     "Database/키(Key).md",
     "Spring/Annotation/Lombok Annotation/@NoArgsConstructor.md",
     "Spring/Annotation/Lombok Annotation/@Getter.md",
@@ -162,9 +165,6 @@
     "Spring/Annotation/JPA Annotation/@Id.md",
     "Spring/Annotation/Lombok Annotation",
     "Spring/Annotation/JPA Annotation",
-    "Spring/Annotation/@RestController.md",
-    "Spring/Annotation/@ResponseBody.md",
-    "Spring/Annotation/@GetMapping.md",
     "Spring/Annotation/@Controller.md",
     "Spring/Annotation",
     "Spring/JPA",

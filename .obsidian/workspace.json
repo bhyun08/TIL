@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Theory/Setter 메서드.md",
+                "file": "Language/Java/생성자.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Theory/Getter 메서드.md",
+                "file": "Language/Java/Getter 메서드.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Theory/Setter 메서드.md",
+                "file": "Language/Java/생성자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Theory/Setter 메서드.md",
+                "file": "Language/Java/생성자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Theory/Setter 메서드.md"
+                "file": "Language/Java/생성자.md"
               }
             }
           }
@@ -158,10 +158,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6bf1c57793d3868a",
+  "active": "cfbca15b10d982f2",
   "lastOpenFiles": [
-    "Spring/Theory/Getter 메서드.md",
-    "Spring/Theory/Setter 메서드.md",
+    "Language/Java/무제 폴더",
+    "Language/Java/Setter 메서드.md",
+    "Language/Java/Getter 메서드.md",
     "Spring/Annotation/Lombok Annotation/@Setter.md",
     "Spring/Annotation/Lombok Annotation/@Getter.md",
     "Spring/Annotation/@Controller.md",
@@ -192,7 +193,6 @@
     "Network/HTTP",
     "Language/Java/무제 파일.md",
     "Language/Java/Java 란.md",
-    "Language/Java/JVM.md",
     "Language/Java",
     "Language/Go",
     "Devops/Container/Kubernetes"

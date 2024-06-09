@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "96653dd1ac7599c9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ccbc064cd21a9810",
+  "active": "96653dd1ac7599c9",
   "lastOpenFiles": [
     "Network/HTTP/HTTP 란.md",
     "Network/OSI 7 Layers/무제 폴더",

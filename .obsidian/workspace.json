@@ -11,8 +11,12 @@
             "id": "20a0b3360fbecad5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BackEnd/Database/SQL/SQL 이란.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/트랜젝션(Transaction).md",
+                "file": "BackEnd/Database/SQL/SQL 이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/트랜젝션(Transaction).md",
+                "file": "BackEnd/Database/SQL/SQL 이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/트랜젝션(Transaction).md"
+                "file": "BackEnd/Database/SQL/SQL 이란.md"
               }
             }
           }
@@ -144,41 +148,41 @@
   },
   "active": "cfbca15b10d982f2",
   "lastOpenFiles": [
+    "BackEnd/Database/SQL/무제 폴더 2",
+    "BackEnd/Database/SQL/무제 폴더 1",
+    "무제 폴더",
+    "BackEnd/Database/관계형 데이터베이스 (RDB).md",
+    "Devops/Language",
     "BackEnd",
     "Network/HTTP/HTTP 란.md",
     "Network/OSI 7 Layers/무제 폴더",
     "Network/OSI 7 Layers",
-    "Language/Java/Theory/Getter 메서드.md",
-    "Language/Java/무제 파일.md",
-    "Language/Java/Theory/생성자.md",
-    "Language/Java/Theory",
-    "Language/Java/Theory/Setter 메서드.md",
-    "Spring/Annotation/Lombok Annotation/@Setter.md",
-    "Spring/Annotation/Lombok Annotation/@Getter.md",
-    "Spring/Annotation/@Controller.md",
-    "Spring/Annotation/@GetMapping.md",
-    "Spring/Theory/DTO.md",
+    "BackEnd/Language/Java/Theory/Getter 메서드.md",
+    "BackEnd/Language/Java/무제 파일.md",
+    "BackEnd/Language/Java/Theory/생성자.md",
+    "BackEnd/Language/Java/Theory",
+    "BackEnd/Language/Java/Theory/Setter 메서드.md",
+    "BackEnd/Spring/Annotation/Lombok Annotation/@Setter.md",
+    "BackEnd/Spring/Annotation/Lombok Annotation/@Getter.md",
+    "BackEnd/Spring/Annotation/@Controller.md",
+    "BackEnd/Spring/Annotation/@GetMapping.md",
+    "BackEnd/Spring/Theory/DTO.md",
     "OS/Linux/무제 파일.md",
-    "Spring/Annotation/JPA Annotation/@Id.md",
-    "Spring/Theory",
-    "Spring/Annotation/@RestController.md",
-    "Spring/Annotation/@ResponseBody.md",
-    "Spring/Annotation/JPA Annotation/@GeneratedValue.md",
+    "BackEnd/Spring/Annotation/JPA Annotation/@Id.md",
+    "BackEnd/Spring/Theory",
+    "BackEnd/Spring/Annotation/@RestController.md",
+    "BackEnd/Spring/Annotation/@ResponseBody.md",
+    "BackEnd/Spring/Annotation/JPA Annotation/@GeneratedValue.md",
     "README.md",
-    "Database/데이터베이스 란.md",
-    "Database/관계형 데이터베이스 (RDB).md",
-    "Database/키(Key).md",
-    "Spring/Annotation/Lombok Annotation/@NoArgsConstructor.md",
-    "Spring/Annotation/Lombok Annotation/@AllArgsConstructor.md",
-    "Spring/Annotation/Lombok Annotation",
-    "Spring/Annotation/JPA Annotation",
-    "Spring/Annotation",
-    "Spring/JPA",
-    "OS/Linux",
+    "BackEnd/Database/데이터베이스 란.md",
+    "BackEnd/Database/키(Key).md",
+    "BackEnd/Spring/Annotation/Lombok Annotation/@NoArgsConstructor.md",
+    "BackEnd/Spring/Annotation/Lombok Annotation/@AllArgsConstructor.md",
+    "BackEnd/Spring/Annotation/Lombok Annotation",
+    "BackEnd/Spring/Annotation/JPA Annotation",
     "Network/HTTP/HTTP Structure(구조).md",
     "Network/HTTP/HTTP Status Code(상태코드).md",
     "Network/HTTP/HTTP Method(메서드).md",
-    "Network/HTTP",
-    "Language/Java/Java 란.md"
+    "BackEnd/Language/Java/Java 란.md"
   ]
 }

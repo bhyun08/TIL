@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/HTTP/HTTP 란.md",
+                "file": "Database/트랜젝션(Transaction).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/HTTP/HTTP 란.md",
+                "file": "Database/트랜젝션(Transaction).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/HTTP/HTTP 란.md",
+                "file": "Database/트랜젝션(Transaction).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/HTTP/HTTP 란.md"
+                "file": "Database/트랜젝션(Transaction).md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "ccbc064cd21a9810",
   "lastOpenFiles": [
+    "Network/HTTP/HTTP 란.md",
     "Network/OSI 7 Layers/무제 폴더",
     "Network/OSI 7 Layers",
     "Language/Java/Theory/Getter 메서드.md",
@@ -177,12 +178,10 @@
     "Spring/Annotation",
     "Spring/JPA",
     "OS/Linux",
-    "Network/HTTP/HTTP 란.md",
     "Network/HTTP/HTTP Structure(구조).md",
     "Network/HTTP/HTTP Status Code(상태코드).md",
     "Network/HTTP/HTTP Method(메서드).md",
     "Network/HTTP",
-    "Language/Java/Java 란.md",
-    "Language/Java"
+    "Language/Java/Java 란.md"
   ]
 }

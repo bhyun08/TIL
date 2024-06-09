@@ -148,9 +148,9 @@
   },
   "active": "cfbca15b10d982f2",
   "lastOpenFiles": [
-    "BackEnd/Database/SQL/무제 폴더 2",
-    "BackEnd/Database/SQL/무제 폴더 1",
-    "무제 폴더",
+    "BackEnd/Database/SQL/DCL",
+    "BackEnd/Database/SQL/DML",
+    "BackEnd/Database/SQL/DDL",
     "BackEnd/Database/관계형 데이터베이스 (RDB).md",
     "Devops/Language",
     "BackEnd",

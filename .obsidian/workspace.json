@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/Language/Java/Theory/무제 파일.md",
+                "file": "BackEnd/Language/Java/Java 란.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/Language/Java/Theory/무제 파일.md",
+                "file": "BackEnd/Language/Java/Java 란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/Language/Java/Theory/무제 파일.md",
+                "file": "BackEnd/Language/Java/Java 란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/Language/Java/Theory/무제 파일.md"
+                "file": "BackEnd/Language/Java/Java 란.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -146,11 +147,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cfbca15b10d982f2",
+  "active": "24a31ceffe491747",
   "lastOpenFiles": [
+    "무제 파일.canvas",
+    "2024-06-10.md",
+    "BackEnd/Language/Java/Theory/무제 파일.md",
     "BackEnd/Language/Java/Grammar",
     "BackEnd/Language/Java/Grammar/생성자.md",
-    "BackEnd/Language/Java/Theory/무제 파일.md",
     "BackEnd/Language/Java/Grammar/Setter 메서드.md",
     "BackEnd/Language/Java/Theory/JVM.md",
     "BackEnd/Language/Java/Grammar/Getter 메서드.md",
@@ -180,9 +183,7 @@
     "BackEnd/Database/키(Key).md",
     "BackEnd/Spring/Annotation/Lombok Annotation/@NoArgsConstructor.md",
     "BackEnd/Spring/Annotation/Lombok Annotation/@AllArgsConstructor.md",
-    "BackEnd/Spring/Annotation/Lombok Annotation",
     "Network/HTTP/HTTP Structure(구조).md",
-    "Network/HTTP/HTTP Status Code(상태코드).md",
-    "Network/HTTP/HTTP Method(메서드).md"
+    "Network/HTTP/HTTP Status Code(상태코드).md"
   ]
 }

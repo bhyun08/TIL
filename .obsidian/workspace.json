@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/HTTP/HTTP Method(메서드).md",
+                "file": "Network/HTTP/HTTP Status Code(상태코드).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/HTTP/HTTP Method(메서드).md",
+                "file": "Network/HTTP/HTTP Status Code(상태코드).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/HTTP/HTTP Method(메서드).md",
+                "file": "Network/HTTP/HTTP Status Code(상태코드).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/HTTP/HTTP Method(메서드).md"
+                "file": "Network/HTTP/HTTP Status Code(상태코드).md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "24a31ceffe491747",
   "lastOpenFiles": [
+    "Network/HTTP/HTTP Method(메서드).md",
     "BackEnd/Database/관계형 데이터베이스(RDB).md",
     "BackEnd/Language/Java/문법/생성자.md",
     "BackEnd/Language/Java/Java.md",
@@ -183,7 +184,6 @@
     "OS/Linux/무제 파일.md",
     "BackEnd/Spring/개념",
     "README.md",
-    "BackEnd/Spring/Annotation/Lombok Annotation/@NoArgsConstructor.md",
-    "BackEnd/Spring/Annotation/Lombok Annotation/@AllArgsConstructor.md"
+    "BackEnd/Spring/Annotation/Lombok Annotation/@NoArgsConstructor.md"
   ]
 }

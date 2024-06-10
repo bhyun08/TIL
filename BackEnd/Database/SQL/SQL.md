@@ -1,4 +1,3 @@
-#### SQL
 SQL(Structured Query Language)은 관계형 데이터베이스에서 데이터를 관리하고 처리하기 위해 사용되는 표준화된 언어이다. SQL은 데이터베이스에 대한 쿼리(Query)를 작성하고 실행하며, 데이터베이스의 구조를 정의하고 조작하는 데 사용한다.
 
 - SQL은 대부분의 관계형 데이터베이스 시스템에서 지원되며, MySQL, PostgreSQL, Oracle, Microsoft SQL Server 등 여러 다양한 데이터베이스 관리 시스템(DBMS)에서 사용된다. 

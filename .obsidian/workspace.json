@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +138,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -148,7 +146,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "30074cce8d51bf40",
+  "active": "cfbca15b10d982f2",
   "lastOpenFiles": [
     "무제 파일.md",
     "BackEnd/Language/Java/Java 란.md",

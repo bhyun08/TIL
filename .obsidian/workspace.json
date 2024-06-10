@@ -11,12 +11,8 @@
             "id": "24a31ceffe491747",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BackEnd/Language/Java/Java.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/Language/Java/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/Language/Java/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BackEnd/Language/Java/Java.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,23 +138,23 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cfbca15b10d982f2",
+  "active": "24a31ceffe491747",
   "lastOpenFiles": [
-    "BackEnd/Language/Java/Grammar/Getter 메서드.md",
+    "BackEnd/Language/Java/문법/생성자.md",
+    "BackEnd/Language/Java/Java.md",
+    "BackEnd/Language/Java/문법/Getter 메서드.md",
     "BackEnd/Database/SQL/SQL.md",
     "BackEnd/Database/관계형 데이터베이스(RDB).md",
     "BackEnd/Database/데이터베이스.md",
     "BackEnd/Database/키(Key).md",
-    "BackEnd/Language/Java/Java.md",
     "무제 파일.md",
     "2024-06-10.md",
     "무제 파일.canvas",
-    "BackEnd/Language/Java/Theory/무제 파일.md",
-    "BackEnd/Language/Java/Grammar",
-    "BackEnd/Language/Java/Grammar/생성자.md",
-    "BackEnd/Language/Java/Grammar/Setter 메서드.md",
-    "BackEnd/Language/Java/Theory/JVM.md",
-    "BackEnd/Spring/Theory/DTO.md",
+    "BackEnd/Language/Java/개념/무제 파일.md",
+    "BackEnd/Language/Java/문법",
+    "BackEnd/Language/Java/문법/Setter 메서드.md",
+    "BackEnd/Language/Java/개념/JVM.md",
+    "BackEnd/Spring/개념/DTO.md",
     "BackEnd/Spring/Annotation/@RestController.md",
     "BackEnd/Spring/Annotation/@ResponseBody.md",
     "BackEnd/Spring/Annotation/@GetMapping.md",
@@ -177,11 +169,11 @@
     "Network/HTTP/HTTP 란.md",
     "Network/OSI 7 Layers/무제 폴더",
     "Network/OSI 7 Layers",
-    "BackEnd/Language/Java/Theory",
+    "BackEnd/Language/Java/개념",
     "BackEnd/Spring/Annotation/Lombok Annotation/@Setter.md",
     "BackEnd/Spring/Annotation/Lombok Annotation/@Getter.md",
     "OS/Linux/무제 파일.md",
-    "BackEnd/Spring/Theory",
+    "BackEnd/Spring/개념",
     "README.md",
     "BackEnd/Spring/Annotation/Lombok Annotation/@NoArgsConstructor.md",
     "BackEnd/Spring/Annotation/Lombok Annotation/@AllArgsConstructor.md"

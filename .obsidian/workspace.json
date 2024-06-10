@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,10 +148,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "24a31ceffe491747",
+  "active": "30074cce8d51bf40",
   "lastOpenFiles": [
-    "무제 파일.canvas",
+    "무제 파일.md",
+    "BackEnd/Language/Java/Java 란.md",
     "2024-06-10.md",
+    "무제 파일.canvas",
     "BackEnd/Language/Java/Theory/무제 파일.md",
     "BackEnd/Language/Java/Grammar",
     "BackEnd/Language/Java/Grammar/생성자.md",
@@ -183,7 +186,6 @@
     "BackEnd/Database/키(Key).md",
     "BackEnd/Spring/Annotation/Lombok Annotation/@NoArgsConstructor.md",
     "BackEnd/Spring/Annotation/Lombok Annotation/@AllArgsConstructor.md",
-    "Network/HTTP/HTTP Structure(구조).md",
-    "Network/HTTP/HTTP Status Code(상태코드).md"
+    "Network/HTTP/HTTP Structure(구조).md"
   ]
 }

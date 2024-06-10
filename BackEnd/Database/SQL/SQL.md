@@ -4,4 +4,4 @@ SQL(Structured Query Language)은 관계형 데이터베이스에서 데이터�
 - SQL은 대부분의 관계형 데이터베이스 시스템에서 지원되며, MySQL, PostgreSQL, Oracle, Microsoft SQL Server 등 여러 다양한 데이터베이스 관리 시스템(DBMS)에서 사용된다. 
 - SQL은 데이터베이스와 관련된 작업을 수행하는 데 필수적이며, 데이터베이스 관리 및 개발에서 중요한 역할을 합니다.
 
-[[관계형 데이터베이스 (RDB)]]
+[[관계형 데이터베이스(RDB)]]

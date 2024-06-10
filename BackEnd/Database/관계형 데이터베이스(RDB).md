@@ -19,5 +19,5 @@
 - 관계형 데이터베이스는 많은 비즈니스 및 기업 애플리케이션에서 널리 사용되며, 데이터의 구조화와 관리를 위한 강력한 도구를 제공한다. 
 - 대표적인 관계형 데이터베이스 시스템으로는 Oracle, MySQL, PostgreSQL, Microsoft SQL Server 등이 있다.
 
-[[SQL 이란]]
+[[SQL]]
 [[트랜젝션(Transaction)]]

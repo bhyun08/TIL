@@ -1,4 +1,3 @@
-#### JAVA
 Java는 객체 지향 프로그래밍 언어이자 소프트웨어 플랫폼이다. Sun Microsystems(현재 Oracle Corporation)에 의해 개발되었으며, 1995년에 처음 발표되었다.
 
 ##### Java의 컴파일과 실행 과정

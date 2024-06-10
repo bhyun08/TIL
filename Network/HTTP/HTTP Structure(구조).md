@@ -1,4 +1,3 @@
-#### HTTP Structure
 HTTP는 클라이언트와 서버 간에 데이터를 교환하기 위한 프로토콜인데, HTTP 메시지는 요청(Request)과 응답(Response)로 구성되며, 이러한 메시지는 헤더(Header)와 본문(Body)으로 이루어져 있다.
 
 1. **HTTP 요청(Request) 구조**:

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/Spring/JPA/Flush.md",
+                "file": "BackEnd/Database/Entity(엔티티).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/Spring/JPA/Flush.md",
+                "file": "BackEnd/Database/Entity(엔티티).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/Spring/JPA/Flush.md",
+                "file": "BackEnd/Database/Entity(엔티티).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/Spring/JPA/Flush.md"
+                "file": "BackEnd/Database/Entity(엔티티).md"
               }
             }
           }
@@ -146,36 +146,36 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cfbca15b10d982f2",
+  "active": "24a31ceffe491747",
   "lastOpenFiles": [
+    "BackEnd/Spring/JPA/JPA 란.md",
+    "BackEnd/Database/Entity(엔티티).md",
+    "BackEnd/Language/Java/Java.md",
+    "Devops/Language/Go/Go언어 란.md",
+    "BackEnd/Spring/개념/DTO.md",
+    "BackEnd/Database/관계형 데이터베이스(RDB).md",
+    "BackEnd/Database/데이터베이스.md",
+    "BackEnd/Database/키(Key).md",
+    "BackEnd/Database/트랜젝션(Transaction).md",
+    "BackEnd/Spring/JPA/JDBC.md",
+    "BackEnd/Spring/JPA/Flush.md",
     "BackEnd/Spring/JPA/영속성 컨텍스트.md",
     "BackEnd/Language/Java/문법/생성자.md",
-    "BackEnd/Spring/개념/DTO.md",
     "README.md",
     "Devops/Container/Docker/Docker 란.md",
     "무제 파일.canvas",
-    "BackEnd/Spring/JPA/Flush.md",
-    "BackEnd/Spring/JPA/JDBC.md",
-    "BackEnd/Spring/JPA/JPA 란.md",
     "JDBC-20240612224454913.webp",
-    "BackEnd/Language/Java/Java.md",
-    "BackEnd/Database/관계형 데이터베이스(RDB).md",
-    "BackEnd/Database/트랜젝션(Transaction).md",
-    "BackEnd/Database/Entity(엔티티).md",
     "BackEnd/Language/Java/문법/Getter 메서드.md",
     "BackEnd/Language/Java/개념/JVM.md",
     "BackEnd/Language/Java/개념/무제 파일.md",
-    "BackEnd/Database/키(Key).md",
     "Network/HTTP/HTTP 란.md",
     "Network/HTTP/HTTP Method(메서드).md",
     "BackEnd/Database/SQL/SQL.md",
     "Network/HTTP/HTTP Structure(구조).md",
     "Network/HTTP/HTTP Status Code(상태코드).md",
     "Devops/DevOps 란.md",
-    "Devops/Language/Go/Go언어 란.md",
     "Devops/Container/Container 란.md",
     "BackEnd/Spring/Annotation/@RestController.md",
-    "BackEnd/Spring/Annotation/@ResponseBody.md",
     "BackEnd/Language/Java/문법",
     "BackEnd/Database/SQL/DCL",
     "BackEnd/Database/SQL/DML",

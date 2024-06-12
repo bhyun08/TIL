@@ -23,3 +23,4 @@
 
 - JPA는 Hibernate, EclipseLink, DataNucleus 등의 구현체를 통해 사용할 수 있다. 
 - 스프링 프레임워크의 Spring Data JPA 모듈과 함께 사용하면 더욱 효과적으로 활용이 가능하다.
+

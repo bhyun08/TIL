@@ -148,8 +148,9 @@
   },
   "active": "24a31ceffe491747",
   "lastOpenFiles": [
-    "BackEnd/Spring/JPA/JDBC.md",
+    "BackEnd/Spring/JPA/Flush.md",
     "BackEnd/Spring/JPA/영속성 컨텍스트.md",
+    "BackEnd/Spring/JPA/JDBC.md",
     "BackEnd/Spring/JPA/JPA 란.md",
     "JDBC-20240612224454913.webp",
     "BackEnd/Language/Java/문법/생성자.md",
@@ -174,7 +175,6 @@
     "BackEnd/Spring/Annotation/@RestController.md",
     "BackEnd/Spring/Annotation/@ResponseBody.md",
     "BackEnd/Spring/Annotation/@GetMapping.md",
-    "BackEnd/Spring/Annotation/@Controller.md",
     "무제 파일.canvas",
     "BackEnd/Language/Java/문법",
     "BackEnd/Database/SQL/DCL",

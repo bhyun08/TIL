@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "BackEnd/Spring/JPA/JDBC.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -148,6 +148,7 @@
   },
   "active": "24a31ceffe491747",
   "lastOpenFiles": [
+    "JDBC-20240612224454913.webp",
     "BackEnd/Spring/JPA/JPA 란.md",
     "BackEnd/Spring/JPA/JDBC.md",
     "BackEnd/Language/Java/문법/생성자.md",
@@ -173,7 +174,6 @@
     "BackEnd/Spring/Annotation/@ResponseBody.md",
     "BackEnd/Spring/Annotation/@GetMapping.md",
     "BackEnd/Spring/Annotation/@Controller.md",
-    "BackEnd/Spring/Annotation/Lombok Annotation/@Setter.md",
     "무제 파일.canvas",
     "BackEnd/Language/Java/문법",
     "BackEnd/Database/SQL/DCL",

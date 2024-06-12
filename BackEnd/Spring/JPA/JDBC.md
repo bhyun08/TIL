@@ -3,6 +3,8 @@ JDBC는 데이터베이스와 연결하고, 쿼리를 실행하며, 데이터 �
 
 #### JDBC의 동작 방식
 
+![[JDBC-20240612224454913.webp]]
+
 1. **JDBC 사용**:
     - JPA 구현체(예: Hibernate, Spring Data JPA)는 JDBC API를 사용하여 데이터베이스와 통신한다.
     - JPA는 JDBC 드라이버를 통해 데이터베이스 연결을 생성하고 SQL 쿼리를 실행한다.

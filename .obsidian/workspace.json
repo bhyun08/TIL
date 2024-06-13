@@ -148,8 +148,9 @@
   },
   "active": "626c42047f591458",
   "lastOpenFiles": [
-    "BackEnd/Spring/JPA/변경감지(Dirty Checking).md",
+    "BackEnd/Spring/JPA/JDBC.md",
     "BackEnd/Spring/JPA/Hibernate.md",
+    "BackEnd/Spring/JPA/변경감지(Dirty Checking).md",
     "BackEnd/Spring/JPA/Entity Manager.md",
     "BackEnd/Spring/JPA/Flush.md",
     "BackEnd/Spring/JPA/JPQL 사용.md",
@@ -162,7 +163,6 @@
     "Network/HTTP/HTTP Status Code(상태코드).md",
     "Network/HTTP/HTTP Structure(구조).md",
     "Network/HTTP/HTTP Method(메서드).md",
-    "BackEnd/Spring/JPA/JDBC.md",
     "BackEnd/Spring/Annotation/JPA Annotation/@Id.md",
     "무제 파일.canvas",
     "BackEnd/Database/트랜젝션(Transaction).md",

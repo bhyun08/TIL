@@ -17,4 +17,5 @@ JPQL은 Java Persistence Query Language의 약자로, JPA(Java Persistence API)�
     - JPQL은 프로그래밍 언어 내에서 동적으로 쿼리를 생성할 수 있다.
     - 조건에 따라 쿼리 내용을 유동적으로 변경할 수 있다.
 
+[[SQL]]
 [[JPQL 사용]]

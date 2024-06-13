@@ -6,6 +6,3 @@
 HTTP 기본적으로 request(요청) / response(응답) 구조로 되어있다. 
 클라이언트가 HTTP request를 서버에 보내면 서버는 HTTP response를 보내는 구조 클라이언트와 서버의 모든 통신이 요청과 응답으로 이루어 진다.
 
-[[HTTP Method(메서드)]]
-[[HTTP Status Code(상태코드)]]
-[[HTTP Structure(구조)]]

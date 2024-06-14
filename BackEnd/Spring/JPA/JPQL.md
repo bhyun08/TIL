@@ -1,4 +1,4 @@
-JPQL은 Java Persistence Query Language의 약자로, JPA(Java Persistence API)에서 사용되는 객체 지향 쿼리 언어이다. JPQL은 SQL을 추상화했기 때문에 특정 데이터베이스 SQL에 의존하지 않는 장점이 있다.
+JPQL은 Java Persistence Query Language의 약자로, JPA(Java Persistence API)에서 사용되는 객체 지향 쿼리 언어이다. JPQL은 SQL을 추상화했기 때문에 특정 데이터베이스 SQL에 의존하지 않는 장점이 있다. 
 
 #### JPQL의 특징
 1. 객체 지향 쿼리 언어
@@ -17,5 +17,6 @@ JPQL은 Java Persistence Query Language의 약자로, JPA(Java Persistence API)�
     - JPQL은 프로그래밍 언어 내에서 동적으로 쿼리를 생성할 수 있다.
     - 조건에 따라 쿼리 내용을 유동적으로 변경할 수 있다.
 
+- 즉, JPQL은 JPA가 자동으로 생성하는 쿼리로는 해결하기 어려운 복잡한 요구사항을 처리하기 위해 활용된다. 개발자는 JPQL을 통해 보다 세밀한 데이터 조회 및 조작을 수행할 수 있다.
 [[SQL]]
 [[JPQL 사용]]

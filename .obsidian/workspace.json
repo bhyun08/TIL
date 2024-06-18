@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/Language/Java/개념/상속.md",
+                "file": "BackEnd/Spring/JPA/JPA 란.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/Language/Java/개념/상속.md",
+                "file": "BackEnd/Spring/JPA/JPA 란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/Language/Java/개념/상속.md",
+                "file": "BackEnd/Spring/JPA/JPA 란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/Language/Java/개념/상속.md"
+                "file": "BackEnd/Spring/JPA/JPA 란.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "80f1acf698fc08f9",
   "lastOpenFiles": [
+    "BackEnd/Spring/JPA/JPQL 사용.md",
+    "BackEnd/Spring/JPA/JPQL.md",
+    "BackEnd/Spring/JPA/JPA 란.md",
+    "BackEnd/Language/Java/개념/상속.md",
     "BackEnd/Language/Java/문법/생성자.md",
     "BackEnd/Language/Java/Java.md",
     "BackEnd/Language/Java/문법/Getter 메서드.md",
@@ -159,7 +163,6 @@
     "Language/무제 파일.md",
     "Language",
     "BackEnd/Language/Java/문법/인터페이스(Interface).md",
-    "BackEnd/Language/Java/개념/상속.md",
     "BackEnd/Spring/Annotation/Lombok Annotation/@Getter.md",
     "BackEnd/Language/Java/개념/클래스(Class)와 객체.md",
     "BackEnd/Language/Java/문법/필드(Field).md",
@@ -172,9 +175,6 @@
     "BackEnd/Spring/Annotation/Lombok Annotation/@NoArgsConstructor.md",
     "BackEnd/Spring/JPA/변경감지(Dirty Checking).md",
     "무제 파일.canvas",
-    "BackEnd/Spring/JPA/JPQL.md",
-    "BackEnd/Spring/JPA/JPQL 사용.md",
-    "BackEnd/Spring/JPA/JPA 란.md",
     "BackEnd/Spring/JPA/Hibernate.md",
     "BackEnd/Spring/JPA/Entity(엔티티).md",
     "JDBC-20240612224454913.webp",

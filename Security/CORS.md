@@ -10,8 +10,17 @@ CORS(Cross-Origin Resource Sharing)는 다른 출처의 자원을 공유할 수 
 | http://Example.com:80<br>http://example.com                              | HTTP 기본 Port인 80번이 생략되어있으므로 동일 출처이다.                |
 | http://example.com/app1/index.html<br>http://example.com/app2/index.html | Protocol, Host, Port(생략)이 같으며, Path부터 다르므로 동일 출처이다. |
 
-| 다른 출처 예시                                                                                         |                     |
-| ------------------------------------------------------------------------------------------------ | ------------------- |
-| http://example.com/app1  <br>https://example.com/app2                                            | Protocol이 다릅니다      |
-| http://example.com<br>http://www.example.com<br>http://myapp.example.com                         | Host가 다릅니다          |
-| [http://example.com](http://example.com/)<br>[http://example.com:8080](http://example.com:8080/) | 80, 8080으로 포트가 다릅니다 |
+| 다른 출처 예시                                                                 |                     |
+| ------------------------------------------------------------------------ | ------------------- |
+| http://example.com/app1  <br>https://example.com/app2                    | Protocol이 다릅니다      |
+| http://example.com<br>http://www.example.com<br>http://myapp.example.com | Host가 다릅니다          |
+| http://example.com<br>http://example.com:8080                            | 80, 8080으로 포트가 다릅니다 |
+
+#### 다른 출처의 위험성
+
+- CORS 설정이 잘못되면 API 키와 같은 중요한 정보가 노출될 수 있다.
+- CORS 취약점을 악용하여 다른 사용자의 데이터에 접근할 수 있다.
+- CORS 설정 오류로 인해 악성 웹사이트가 동일 출처 정책을 우회할 수 있다.
+
+ 따라서, 다른 출처의 접근을 막기 위해서는 동일 출처 정책이 필요하다.
+

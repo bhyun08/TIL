@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/Spring/개념/빈(Bean).md",
+                "file": "Security/CORS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/Spring/개념/빈(Bean).md",
+                "file": "Security/CORS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/Spring/개념/빈(Bean).md",
+                "file": "Security/CORS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/Spring/개념/빈(Bean).md"
+                "file": "Security/CORS.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "91ea8dd0d806ff69",
+  "active": "cfbca15b10d982f2",
   "lastOpenFiles": [
-    "BackEnd/Spring/JPA/영속성 컨텍스트.md",
     "BackEnd/Spring/개념/빈(Bean).md",
+    "Security/CORS.md",
+    "Security",
+    "BackEnd/Spring/JPA/영속성 컨텍스트.md",
     "BackEnd/Language/Java/개념/오버라이딩(Overriding).md",
     "BackEnd/Spring/개념/Spring MVC.md",
     "BackEnd/Language/Java/개념/상속.md",
@@ -179,12 +181,10 @@
     "FrontEnd/Html",
     "FrontEnd/JavaScript",
     "FrontEnd",
-    "BackEnd/Spring/Annotation/JPA Annotation/@GeneratedValue.md",
     "무제 폴더 1",
     "Language/개념",
     "Language",
     "무제 파일.canvas",
-    "JDBC-20240612224454913.webp",
-    "BackEnd/Language/Java/문법"
+    "JDBC-20240612224454913.webp"
   ]
 }

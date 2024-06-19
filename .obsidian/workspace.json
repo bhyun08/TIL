@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/Spring/개념/Spring MVC.md",
+                "file": "BackEnd/Spring/JPA/영속성 컨텍스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/Spring/개념/Spring MVC.md",
+                "file": "BackEnd/Spring/JPA/영속성 컨텍스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/Spring/개념/Spring MVC.md",
+                "file": "BackEnd/Spring/JPA/영속성 컨텍스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/Spring/개념/Spring MVC.md"
+                "file": "BackEnd/Spring/JPA/영속성 컨텍스트.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   "active": "91ea8dd0d806ff69",
   "lastOpenFiles": [
     "BackEnd/Language/Java/개념/오버라이딩(Overriding).md",
+    "BackEnd/Spring/개념/Spring MVC.md",
     "BackEnd/Language/Java/개념/상속.md",
     "BackEnd/Language/Java/개념/클래스(Class)와 객체.md",
     "BackEnd/Language/Java/문법/인터페이스(Interface).md",
@@ -179,7 +180,6 @@
     "BackEnd/Spring/Annotation/JPA Annotation/@GeneratedValue.md",
     "BackEnd/Spring/Annotation/JPA Annotation/@Id.md",
     "BackEnd/Spring/Annotation/JPA Annotation/@ManyToOne.md",
-    "BackEnd/Spring/Annotation/JPA Annotation/@ManyToMany.md",
     "무제 폴더 1",
     "Language/개념",
     "Language",

@@ -28,7 +28,7 @@ public class UserService {
     private UserRepository userRepository;
 
     public void setUserRepository(UserRepository userRepository) {
-        this.userRepository = userRepository;
+        this.userRepository = userRepository; // UserRepostiory 클래스를 의존한다.
     }
 
     public void createUser(User user) {
@@ -36,7 +36,20 @@ public class UserService {
     }
 }
 ```
-	수정자 주입은 Setter 메서드를 통해 의존 객체를 주입받는 방식입니다. Setter 메서드를 통해 UserRepository 객체를 주입받습니다. 이 방식은 생성자 주입에 비해 의존성이 명확하지 않지만, 선택적인 의존성을 처리할 때 유용합니다.
+	수정자 주입은 Setter 메서드를 통해 의존 객체를 주입받는 방식이다. Setter 메서드를 통해 UserRepository 객체를 주입받습니다. 이 방식은 생성자 주입에 비해 의존성이 명확하지 않지만, 선택적인 의존성을 처리할 때 유용하다.
 	
-3. 필드 주입: 필드에 직접 의존 객체를 주입받습니다.
+3. 필드 주입
+	```java
+public class UserService {
+    @Autowired 
+    private UserRepository userRepository; // UserRepostiory 클래스를 의존한다.
 
+    public void createUser(User user) {
+        userRepository.save(user);
+    }
+}
+```
+	필드 주입은 필드에 직접 의존 객체를 주입받는 방식입니다. @Autowired 어노테이션을 사용하여 스프링 컨테이너가 UserRepository 객체를 주입한다.
+
+
+[[@Autowired]]

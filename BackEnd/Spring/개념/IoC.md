@@ -1,0 +1,1 @@
+IoC(제어의 역전)란 Inversion of Control의 약자로, 프로그램의 제어를 다른 대상이 맡는 것을 말한다.

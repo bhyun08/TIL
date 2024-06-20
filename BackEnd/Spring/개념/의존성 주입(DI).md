@@ -7,6 +7,7 @@
 ### 의존성 주입 방법
 
 1. 생성자 주입
+	
 	```java
 public class UserService {
     private final UserRepository userRepository; 
@@ -23,6 +24,7 @@ public class UserService {
 	생성자 주입은 생성자를 통해 의존 객체를 주입받는 방식이다. 생성자에서 필요한 의존 객체를 받아 필드에 할당한다. 이를 통해 UserService 클래스는 UserRepository 클래스에 대한 의존성을 가지게 된다. 생성자 주입은 필수적인 의존성을 명시적으로 드러낼 수 있다.
 	
 2. 수정자(Setter) 주입
+	
 	```java
 public class UserService {
     private UserRepository userRepository;
@@ -39,6 +41,7 @@ public class UserService {
 	수정자 주입은 Setter 메서드를 통해 의존 객체를 주입받는 방식이다. Setter 메서드를 통해 UserRepository 객체를 주입받습니다. 이 방식은 생성자 주입에 비해 의존성이 명확하지 않지만, 선택적인 의존성을 처리할 때 유용하다.
 	
 3. 필드 주입
+	
 	```java
 public class UserService {
     @Autowired 
@@ -49,7 +52,7 @@ public class UserService {
     }
 }
 ```
-	필드 주입은 필드에 직접 의존 객체를 주입받는 방식입니다. @Autowired 어노테이션을 사용하여 스프링 컨테이너가 UserRepository 객체를 주입한다.
+	필드 주입은 필드에 직접 의존 객체를 주입받는 방식이다. @Autowired 어노테이션을 사용하여 스프링 컨테이너가 UserRepository 객체를 주입한다.
 
 
 [[@Autowired]]

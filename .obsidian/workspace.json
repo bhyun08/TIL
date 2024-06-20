@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/Spring/개념/의존성 주입(DI).md",
+                "file": "BackEnd/Spring/Annotation/@Autowired.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/Spring/개념/의존성 주입(DI).md",
+                "file": "BackEnd/Spring/Annotation/@Autowired.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/Spring/개념/의존성 주입(DI).md",
+                "file": "BackEnd/Spring/Annotation/@Autowired.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/Spring/개념/의존성 주입(DI).md"
+                "file": "BackEnd/Spring/Annotation/@Autowired.md"
               }
             }
           }
@@ -158,13 +158,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "91ea8dd0d806ff69",
+  "active": "cfbca15b10d982f2",
   "lastOpenFiles": [
+    "BackEnd/Spring/개념/의존성 주입(DI).md",
     "BackEnd/Spring/개념/Spring MVC.md",
     "BackEnd/Spring/개념/제어의 역전(IoC).md",
     "BackEnd/Spring/개념/DTO.md",
     "BackEnd/Spring/Annotation/@Autowired.md",
-    "BackEnd/Spring/개념/의존성 주입(DI).md",
     "BackEnd/Spring/개념/빈(Bean).md",
     "Security/CORS.md",
     "Security",

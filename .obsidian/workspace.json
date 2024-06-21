@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec1db4e43bce603f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/Database/관계형 데이터베이스(RDB).md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/Database/관계형 데이터베이스(RDB).md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/Database/관계형 데이터베이스(RDB).md"
+                "file": "무제 파일.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cfbca15b10d982f2",
+  "active": "ec1db4e43bce603f",
   "lastOpenFiles": [
-    "BackEnd/Spring/Annotation/@Autowired.md",
     "BackEnd/Spring/개념/의존성 주입(DI).md",
+    "무제 파일.md",
+    "BackEnd/Spring/Annotation/@Autowired.md",
     "BackEnd/Spring/개념/Spring MVC.md",
     "BackEnd/Spring/개념/제어의 역전(IoC).md",
     "BackEnd/Spring/개념/DTO.md",
@@ -174,7 +188,6 @@
     "BackEnd/Spring/JPA/JPA 란.md",
     "BackEnd/Spring/JPA/연관 관계 매핑.md",
     "BackEnd/Spring/JPA/변경감지(Dirty Checking).md",
-    "BackEnd/Database/데이터베이스.md",
     "FrontEnd/TypeScript",
     "FrontEnd/React",
     "FrontEnd/Css",

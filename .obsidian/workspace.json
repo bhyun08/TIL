@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/Spring/개념/빈(Bean).md",
+                "file": "BackEnd/Spring/개념/의존성 주입(DI).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/Spring/개념/빈(Bean).md",
+                "file": "BackEnd/Spring/개념/의존성 주입(DI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/Spring/개념/빈(Bean).md",
+                "file": "BackEnd/Spring/개념/의존성 주입(DI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/Spring/개념/빈(Bean).md"
+                "file": "BackEnd/Spring/개념/의존성 주입(DI).md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "048c75c83411868d",
   "lastOpenFiles": [
+    "BackEnd/Spring/개념/빈(Bean).md",
     "BackEnd/Spring/개념/제어의 역전(IoC).md",
     "BackEnd/Spring/개념/의존성 주입(DI).md",
-    "BackEnd/Spring/개념/빈(Bean).md",
     "무제 파일.md",
     "BackEnd/Spring/Annotation/@Autowired.md",
     "BackEnd/Spring/개념/Spring MVC.md",

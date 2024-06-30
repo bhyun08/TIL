@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e821d444241efd34",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "048c75c83411868d",
+  "active": "e821d444241efd34",
   "lastOpenFiles": [
     "BackEnd/Spring/개념/빈(Bean).md",
     "BackEnd/Spring/개념/제어의 역전(IoC).md",

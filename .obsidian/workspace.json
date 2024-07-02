@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/HTTP/HTTP Status Code(상태코드).md",
+                "file": "BackEnd/Database/트랜젝션(Transaction).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/HTTP/HTTP Status Code(상태코드).md",
+                "file": "BackEnd/Database/트랜젝션(Transaction).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/HTTP/HTTP Status Code(상태코드).md",
+                "file": "BackEnd/Database/트랜젝션(Transaction).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/HTTP/HTTP Status Code(상태코드).md"
+                "file": "BackEnd/Database/트랜젝션(Transaction).md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "048c75c83411868d",
   "lastOpenFiles": [
+    "BackEnd/Database/관계형 데이터베이스(RDB).md",
+    "BackEnd/Database/SQL/SQL.md",
+    "BackEnd/Spring/JPA/JPQL.md",
+    "Network/HTTP/HTTP Status Code(상태코드).md",
     "Network/HTTP/HTTP Structure(구조).md",
     "BackEnd/Spring/개념/의존성 주입(DI).md",
     "BackEnd/Spring/개념/빈(Bean).md",
@@ -171,10 +175,6 @@
     "BackEnd/Language/Java/개념/추상 클래스, 추상 메서드.md",
     "BackEnd/Spring/JPA/플러시(Flush).md",
     "BackEnd/Spring/JPA/JDBC.md",
-    "BackEnd/Spring/JPA/Hibernate.md",
-    "BackEnd/Spring/JPA/Entity Manager.md",
-    "BackEnd/Spring/JPA/JPA 란.md",
-    "BackEnd/Spring/JPA/연관 관계 매핑.md",
     "FrontEnd/TypeScript",
     "FrontEnd/React",
     "FrontEnd/Css",

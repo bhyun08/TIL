@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/CORS.md",
+                "file": "BackEnd/Spring/개념/빈(Bean).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/CORS.md",
+                "file": "BackEnd/Spring/개념/빈(Bean).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/CORS.md",
+                "file": "BackEnd/Spring/개념/빈(Bean).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/CORS.md"
+                "file": "BackEnd/Spring/개념/빈(Bean).md"
               }
             }
           }
@@ -148,10 +148,17 @@
   },
   "active": "048c75c83411868d",
   "lastOpenFiles": [
-    "BackEnd/Language/Java/문법/Setter 메서드.md",
-    "BackEnd/Language/Java/문법/Getter 메서드.md",
+    "BackEnd/Spring/JPA/변경감지(Dirty Checking).md",
+    "BackEnd/Spring/JPA/연관 관계 매핑.md",
     "BackEnd/Spring/JPA/영속성 컨텍스트.md",
     "BackEnd/Spring/JPA/JPQL.md",
+    "BackEnd/Spring/JPA/JDBC.md",
+    "BackEnd/Spring/JPA/Entity(엔티티).md",
+    "Devops/Container/Container 란.md",
+    "BackEnd/Language/Java/문법/생성자.md",
+    "Security/CORS.md",
+    "BackEnd/Language/Java/문법/Setter 메서드.md",
+    "BackEnd/Language/Java/문법/Getter 메서드.md",
     "BackEnd/Spring/JPA/Hibernate.md",
     "BackEnd/Language/Java/개념/오버라이딩(Overriding).md",
     "BackEnd/Database/트랜젝션(Transaction).md",
@@ -166,15 +173,8 @@
     "BackEnd/Spring/Annotation/@Autowired.md",
     "BackEnd/Spring/개념/Spring MVC.md",
     "BackEnd/Spring/개념/DTO.md",
-    "Security/CORS.md",
     "Security",
     "BackEnd/Language/Java/개념/상속.md",
-    "BackEnd/Language/Java/개념/클래스(Class)와 객체.md",
-    "BackEnd/Language/Java/문법/인터페이스(Interface).md",
-    "BackEnd/Language/Java/문법/메서드(Method).md",
-    "BackEnd/Language/Java/문법/필드(Field).md",
-    "BackEnd/Language/Java/문법/생성자.md",
-    "BackEnd/Language/Java/개념/추상 클래스, 추상 메서드.md",
     "FrontEnd/TypeScript",
     "FrontEnd/React",
     "FrontEnd/Css",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/Spring/개념/제어의 역전(IoC).md",
+                "file": "BackEnd/Spring/개념/빈(Bean).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/Spring/개념/제어의 역전(IoC).md",
+                "file": "BackEnd/Spring/개념/빈(Bean).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/Spring/개념/제어의 역전(IoC).md",
+                "file": "BackEnd/Spring/개념/빈(Bean).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/Spring/개념/제어의 역전(IoC).md"
+                "file": "BackEnd/Spring/개념/빈(Bean).md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "048c75c83411868d",
   "lastOpenFiles": [
-    "BackEnd/Spring/개념/빈(Bean).md",
     "BackEnd/Spring/개념/제어의 역전(IoC).md",
+    "BackEnd/Spring/개념/빈(Bean).md",
+    "BackEnd/Language/Java/문법/인터페이스(Interface).md",
     "BackEnd/Spring/개념/의존성 주입(DI).md",
     "BackEnd/Spring/JPA/변경감지(Dirty Checking).md",
     "BackEnd/Spring/JPA/연관 관계 매핑.md",
@@ -174,7 +175,6 @@
     "BackEnd/Spring/개념/Spring MVC.md",
     "BackEnd/Spring/개념/DTO.md",
     "Security",
-    "BackEnd/Language/Java/개념/상속.md",
     "FrontEnd/TypeScript",
     "FrontEnd/React",
     "FrontEnd/Css",

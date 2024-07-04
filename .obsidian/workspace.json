@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/Java/개념/오버라이딩(Overriding).md",
+                "file": "Language/Java/문법/New 연산자.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language/Java/개념/오버라이딩(Overriding).md",
+                "file": "Language/Java/문법/New 연산자.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language/Java/개념/오버라이딩(Overriding).md",
+                "file": "Language/Java/문법/New 연산자.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Language/Java/개념/오버라이딩(Overriding).md"
+                "file": "Language/Java/문법/New 연산자.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "048c75c83411868d",
   "lastOpenFiles": [
-    "Language/개념/객체 지향.md",
+    "Language/Java/개념/클래스(Class)와 객체.md",
+    "Language/Java/문법/New 연산자.md",
+    "Language/Java/개념/추상 클래스, 추상 메서드.md",
     "Language/Java/개념/오버라이딩(Overriding).md",
+    "BackEnd/Spring/개념/의존성 주입(DI).md",
+    "Language/개념/객체 지향.md",
     "Language/Go/Go언어 란.md",
     "BackEnd/Spring/개념/DTO.md",
     "BackEnd/Database/Entity(엔티티).md",
@@ -158,7 +162,6 @@
     "BackEnd/Spring/Annotation/JPA Annotation/@GeneratedValue.md",
     "BackEnd/Spring/개념/Spring MVC.md",
     "BackEnd/Spring/개념/제어의 역전(IoC).md",
-    "BackEnd/Spring/개념/의존성 주입(DI).md",
     "BackEnd/Spring/개념/빈(Bean).md",
     "BackEnd/Database/관계형 데이터베이스(RDB).md",
     "BackEnd/Spring/Annotation/@Autowired.md",
@@ -171,9 +174,6 @@
     "BackEnd/Spring/Annotation/@Controller.md",
     "BackEnd/Spring/Annotation/Lombok Annotation/@Setter.md",
     "BackEnd/Spring/Annotation/Lombok Annotation/@NoArgsConstructor.md",
-    "BackEnd/Spring/Annotation/Lombok Annotation/@Getter.md",
-    "BackEnd/Spring/Annotation/Lombok Annotation/@AllArgsConstructor.md",
-    "BackEnd/Spring/Annotation/JPA Annotation/@Id.md",
     "Language/Java/문법",
     "Language/Java/개념",
     "Language/Java",

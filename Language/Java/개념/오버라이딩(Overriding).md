@@ -44,6 +44,6 @@ public class Main {
 }
 ```
 
-- `animal.makeSound();`코드에서는 Animal 클래스를 객체로 생성하여 메서드를 호출 하였기 때문에 `makeSound`메서드를 실행한다면 "동물이 소리를 냅니다"가 출력되게 된다.
-- `dog.makeSound();`코드에서는 Dog 클래스로 객체를 사용하여 메서드를 호출하기 때문에 `makeSound`메서드를 실행한다면 "강아지가 멍멍 짖습니다"가 출력되게 된다.
-- 
+- `animal.makeSound();`코드에서는 Animal 클래스를 객체로 생성하여 메서드를 호출 하였기 때문에 `makeSound`메서드를 실행한다면 "동물이 소리를 냅니다"가 출력된다.
+- `dog.makeSound();`코드에서는 Dog 클래스로 객체를 사용하여 메서드를 호출하기 때문에 `makeSound`메서드를 실행한다면 "강아지가 멍멍 짖습니다"가 출력된다.
+- `Animal animalDog = new Dog();`에서는 Animal 부모 클래스의 자식 클래스인 Dog 클래스를 객체로 선언하기 때문에 자식 클래스 Dog의 `makeSound`메서드가 실행되어 "강아지가 멍멍 짖습니다"가 출력된다.

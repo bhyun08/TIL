@@ -148,6 +148,8 @@
   },
   "active": "048c75c83411868d",
   "lastOpenFiles": [
+    "Language/개념/객체 지향.md",
+    "Language/Java/개념/오버라이딩(Overriding).md",
     "Language/Go/Go언어 란.md",
     "BackEnd/Spring/개념/DTO.md",
     "BackEnd/Database/Entity(엔티티).md",
@@ -172,8 +174,6 @@
     "BackEnd/Spring/Annotation/Lombok Annotation/@Getter.md",
     "BackEnd/Spring/Annotation/Lombok Annotation/@AllArgsConstructor.md",
     "BackEnd/Spring/Annotation/JPA Annotation/@Id.md",
-    "BackEnd/Spring/Annotation/JPA Annotation/@ManyToMany.md",
-    "BackEnd/Spring/Annotation/JPA Annotation/@ManyToOne.md",
     "Language/Java/문법",
     "Language/Java/개념",
     "Language/Java",

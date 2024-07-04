@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/Database/키(Key).md",
+                "file": "BackEnd/Language/Java/개념/추상 클래스, 추상 메서드.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/Database/키(Key).md",
+                "file": "BackEnd/Language/Java/개념/추상 클래스, 추상 메서드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/Database/키(Key).md",
+                "file": "BackEnd/Language/Java/개념/추상 클래스, 추상 메서드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/Database/키(Key).md"
+                "file": "BackEnd/Language/Java/개념/추상 클래스, 추상 메서드.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "048c75c83411868d",
   "lastOpenFiles": [
+    "BackEnd/Language/Java/개념/오버라이딩(Overriding).md",
+    "BackEnd/Language/Java/개념/클래스(Class)와 객체.md",
+    "BackEnd/Database/키(Key).md",
     "BackEnd/Spring/개념/빈(Bean).md",
     "BackEnd/Spring/개념/제어의 역전(IoC).md",
     "BackEnd/Spring/개념/DTO.md",
@@ -165,15 +168,12 @@
     "BackEnd/Language/Java/문법/Setter 메서드.md",
     "BackEnd/Language/Java/문법/Getter 메서드.md",
     "BackEnd/Spring/JPA/Hibernate.md",
-    "BackEnd/Language/Java/개념/오버라이딩(Overriding).md",
     "BackEnd/Database/트랜젝션(Transaction).md",
     "BackEnd/Database/관계형 데이터베이스(RDB).md",
     "BackEnd/Database/SQL/SQL.md",
     "Network/HTTP/HTTP Status Code(상태코드).md",
     "Network/HTTP/HTTP Structure(구조).md",
     "무제 파일.md",
-    "BackEnd/Spring/Annotation/@Autowired.md",
-    "BackEnd/Spring/개념/Spring MVC.md",
     "Security",
     "FrontEnd/TypeScript",
     "FrontEnd/React",

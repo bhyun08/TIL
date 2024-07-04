@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/Java/문법/New 연산자.md",
+                "file": "BackEnd/Spring/개념/의존성 주입(DI).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language/Java/문법/New 연산자.md",
+                "file": "BackEnd/Spring/개념/의존성 주입(DI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language/Java/문법/New 연산자.md",
+                "file": "BackEnd/Spring/개념/의존성 주입(DI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Language/Java/문법/New 연산자.md"
+                "file": "BackEnd/Spring/개념/의존성 주입(DI).md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "048c75c83411868d",
   "lastOpenFiles": [
-    "Language/Java/문법/도트(dot) 연산자.md",
-    "Language/Java/문법/메서드(Method).md",
     "Language/Java/문법/New 연산자.md",
+    "Language/Java/문법/Getter 메서드.md",
+    "Language/Java/문법/메서드(Method).md",
+    "Language/Java/문법/도트(dot) 연산자.md",
     "Language/Java/개념/클래스(Class)와 객체.md",
     "Language/Java/개념/추상 클래스, 추상 메서드.md",
     "Language/Java/개념/오버라이딩(Overriding).md",
@@ -173,7 +174,6 @@
     "BackEnd/Spring/JPA/변경감지(Dirty Checking).md",
     "BackEnd/Spring/JPA/연관 관계 매핑.md",
     "BackEnd/Spring/Annotation/@GetMapping.md",
-    "BackEnd/Spring/Annotation/@Controller.md",
     "Language/Java/문법",
     "Language/Java/개념",
     "Language/Java",

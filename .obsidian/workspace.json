@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/Spring/개념/빈(Bean).md",
+                "file": "BackEnd/Database/키(Key).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/Spring/개념/빈(Bean).md",
+                "file": "BackEnd/Database/키(Key).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/Spring/개념/빈(Bean).md",
+                "file": "BackEnd/Database/키(Key).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/Spring/개념/빈(Bean).md"
+                "file": "BackEnd/Database/키(Key).md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "048c75c83411868d",
   "lastOpenFiles": [
-    "BackEnd/Spring/개념/제어의 역전(IoC).md",
     "BackEnd/Spring/개념/빈(Bean).md",
+    "BackEnd/Spring/개념/제어의 역전(IoC).md",
     "BackEnd/Spring/개념/DTO.md",
     "BackEnd/Spring/개념/의존성 주입(DI).md",
     "BackEnd/Language/Java/문법/인터페이스(Interface).md",

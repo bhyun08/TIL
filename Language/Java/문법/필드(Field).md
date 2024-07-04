@@ -6,7 +6,6 @@
 3. 클래스 변수 (Class Variable): static 키워드로 선언되어 모든 객체가 공유하는 변수이다.
 
 필드는 객체의 상태와 속성을 나타내며, 생성자와 메서드에서 사용됩니다. 필드 선언 시 접근 지정자(public, private 등)와 데이터 타입, 변수명을 지정해야 한다. 
-
 ### 예시
 ```java
 public class Student {

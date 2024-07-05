@@ -33,9 +33,19 @@ class Bird implements Flyable {
 }
 ```
 - Flyable 인터페이스를 선언한뒤 추상메서드 fly를 선언하였다.
-- 이후 implements 문법을 통해 Bird 클래스가 Flyable 인터페이스를 
+- 이후 implements 문법을 통해 Bird 클래스가 Flyable 인터페이스를 상속받고, 추상메서드 fly를 오버라이딩해 구연하였다.
+### extends VS implements
+자바에서는 클래스와 인터페이스간의 관계에 따라서, 상속받을때 사용하는 문법이 다르다.
 
 ![](https://i.imgur.com/Y25BbgM.png)
+
+1. 클래스 -> 인터페이스 : 인터페이스가 클래스를 상속받을때
+   인터페이스에서 extends 문법을 사용하여 클래스를 상속받는다.
+2. 클래스 -> 클래스 : 클래스가 클래스를 상속 받을때
+   클래스에서 extends 문법을 사용하여 클래스를 상속받는다.
+3. 인터페이스 -> 클래스 : 클래스가 인터페이스를 상속받을때
+   클래스에서 implements 문법을 사용하여 인터페이스를 상속받는다.
+4. 
 
 
 [[인터페이스(Interface)]]

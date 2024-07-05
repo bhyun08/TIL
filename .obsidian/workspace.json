@@ -11,12 +11,8 @@
             "id": "048c75c83411868d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Language/Java/문법/extends와 implements.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language/Java/문법/extends와 implements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language/Java/문법/extends와 implements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Language/Java/문법/extends와 implements.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,11 +140,11 @@
   },
   "active": "048c75c83411868d",
   "lastOpenFiles": [
+    "Language/Java/문법/extends와 implements.md",
     "Language/Java/문법/메서드(Method).md",
     "Language/Java/문법/인터페이스(Interface).md",
     "Language/Java/문법/컬렉션 프레임워크(Collection Framework).md",
     "Language/Java/문법/필드(Field).md",
-    "Language/Java/문법/extends와 implements.md",
     "Language/Java/문법/Setter 메서드.md",
     "Language/Java/문법/New 연산자.md",
     "Language/Java/문법/Getter 메서드.md",

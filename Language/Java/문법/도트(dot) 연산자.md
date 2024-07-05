@@ -34,4 +34,20 @@ ArrayList<String> list = new ArrayList<>();
 list.add("apple");
 list.add("banana");
 ```
- - 
+ - import 다음 패키지와 클래스에 접근할때 도트 연산자를 사용한다.
+
+3. 정적 멤버 접근
+```java
+// 정적 멤버 접근
+class Math {
+    public static final double PI = 3.14159;
+
+    public static int add(int a, int b) {
+        return a + b;
+    }
+}
+
+double circleArea = Math.PI * 5 * 5;
+int sum = Math.add(10, 20);
+```
+- 도트연산자를 이용하여 static 정적 변수에 접근할 수 있다.

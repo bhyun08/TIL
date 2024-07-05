@@ -17,7 +17,7 @@
 
 |              | 추상 클래스                                   | 인터페이스                                                          |
 | ------------ | ---------------------------------------- | -------------------------------------------------------------- |
-| 사용 키워드       | tract                                    | interface                                                      |
+| 사용 키워드       | abstract                                 | interface                                                      |
 | 사용 가능 변수     | 없음                                       | static final (상수)                                              |
 | 사용 가능 접근 제어자 | 없음 (public, private, protected, default) | public                                                         |
 | 사용 가능 메서드    | 없음                                       | abstract method, default method, static method, private method |

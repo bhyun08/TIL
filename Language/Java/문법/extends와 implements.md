@@ -16,6 +16,24 @@ class Dog extends Animal {
 ```
 - 부모 클래스 Animal 을 extends 문법을통해 자식클래스 Dog 가 상속받는다.
 ### implements
+implements란 클래스가 인터페이스를 구현할 때 사용된다. 인터페이스에 선언된 메서드는 클래스에서 반드시 오버라이딩해야 한다. 자바는 다중 상속을 지원하지 않지만, 다중 인터페이스는 구현이 가능하다.
+##### implements 예제
+```java
+// 인터페이스
+interface Flyable {
+    void fly();
+}
+
+// 클래스
+class Bird implements Flyable {
+    @Override
+    public void fly() {
+        System.out.println("새가 하늘을 납니다.");
+    }
+}
+```
+- Flyable 인터페이스를 선언한뒤 추상메서드 fly를 선언하였다.
+- 이후 implements 문법을 통해 Bird 클래스가 Flyable 인터페이스를 
 
 ![](https://i.imgur.com/Y25BbgM.png)
 

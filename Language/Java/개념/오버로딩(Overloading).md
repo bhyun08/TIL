@@ -33,4 +33,5 @@ public class DiscountCalculator {
 ```
 
 - 해당 자바 코드는 `calculateDiscount`라는 이름의 메서드를 두가지 선언 하였다.
-- 선언된 `calculateDiscount`메서드는 각각 매개변
+- 선언된 `calculateDiscount`메서드는 각각 매개변수의 개수는 동일하지만, 매개변수의 타입(자료형)이 다르다.
+- 때문에 자바에서는 이를 오버로딩된 코드로 인식하고 메서드를 호출할때 매개변수의 타입(자료형)에 따라서 적절한 메서드를 호출한다.

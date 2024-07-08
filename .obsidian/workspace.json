@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/Java/문법/인터페이스(Interface).md",
-                "mode": "source",
+                "file": "BackEnd/Spring/개념/빈 스코프(Bean Scope).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language/Java/문법/인터페이스(Interface).md",
+                "file": "BackEnd/Spring/개념/빈 스코프(Bean Scope).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language/Java/문법/인터페이스(Interface).md",
+                "file": "BackEnd/Spring/개념/빈 스코프(Bean Scope).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Language/Java/문법/인터페이스(Interface).md"
+                "file": "BackEnd/Spring/개념/빈 스코프(Bean Scope).md"
               }
             }
           }
@@ -148,32 +148,32 @@
   },
   "active": "2f69bd88d8fbe61a",
   "lastOpenFiles": [
+    "BackEnd/Spring/개념/빈(Bean).md",
+    "BackEnd/Spring/개념/빈 스코프(Bean Scope).md",
+    "BackEnd/Spring/개념/제어의 역전(IoC).md",
+    "BackEnd/Database/데이터베이스.md",
+    "BackEnd/Database/키(Key).md",
+    "BackEnd/Database/트랜젝션(Transaction).md",
+    "BackEnd/Database/Entity(엔티티).md",
+    "BackEnd/Database/관계형 데이터베이스(RDB).md",
+    "Language/Go/Go언어 란.md",
     "Network/HTTP/HTTP Status Code(상태코드).md",
     "Network/HTTP/HTTP Method(메서드).md",
-    "BackEnd/Spring/개념/의존성 주입(DI).md",
-    "BackEnd/Spring/개념/제어의 역전(IoC).md",
-    "BackEnd/Spring/개념/빈(Bean).md",
-    "BackEnd/Database/관계형 데이터베이스(RDB).md",
-    "BackEnd/Database/트랜젝션(Transaction).md",
-    "BackEnd/Database/키(Key).md",
-    "BackEnd/Database/데이터베이스.md",
     "Network/HTTP/HTTP 란.md",
+    "BackEnd/Database/SQL/SQL.md",
+    "BackEnd/Spring/Annotation/@Controller.md",
+    "BackEnd/Spring/Annotation/JPA Annotation/@OneToMany.md",
+    "BackEnd/Spring/Annotation/@Autowired.md",
+    "BackEnd/Spring/Annotation/Lombok Annotation/@Getter.md",
+    "BackEnd/Spring/Annotation/JPA Annotation/@ManyToOne.md",
+    "BackEnd/Spring/개념/DTO.md",
+    "BackEnd/Spring/개념/Spring MVC.md",
     "Language/Java/문법/인터페이스(Interface).md",
+    "BackEnd/Spring/개념/의존성 주입(DI).md",
     "Language/Java/문법/필드(Field).md",
     "Language/Java/문법/Getter 메서드.md",
     "Language/Java/문법/Setter 메서드.md",
     "Language/Java/개념/추상 클래스, 추상 메서드.md",
-    "Language/Java/개념/오버로딩(Overloading).md",
-    "Language/Java/개념/오버라이딩(Overriding).md",
-    "Language/Java/개념/예외 처리.md",
-    "Language/Java/개념/오류(Error)와 예외 클래스(Exception).md",
-    "BackEnd/Spring/JPA/JPA 란.md",
-    "BackEnd/Spring/Annotation/JPA Annotation/@OneToOne.md",
-    "Security/CORS.md",
-    "Language/Java/개념/상속.md",
-    "Language/Java/문법/도트(dot) 연산자.md",
-    "Language/Java/문법/extends와 implements.md",
-    "Language/Java/문법/New 연산자.md",
     "Language/Java/문법",
     "Language/Java/개념",
     "Language/Java",

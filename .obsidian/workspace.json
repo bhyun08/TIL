@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BackEnd/Spring/JPA/Entity Manager.md",
+                "file": "BackEnd/Spring/개념/빈 스코프(Bean Scope).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BackEnd/Spring/JPA/Entity Manager.md",
+                "file": "BackEnd/Spring/개념/빈 스코프(Bean Scope).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BackEnd/Spring/JPA/Entity Manager.md",
+                "file": "BackEnd/Spring/개념/빈 스코프(Bean Scope).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BackEnd/Spring/JPA/Entity Manager.md"
+                "file": "BackEnd/Spring/개념/빈 스코프(Bean Scope).md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "2f69bd88d8fbe61a",
   "lastOpenFiles": [
+    "Language/Java/개념/예외 처리.md",
+    "BackEnd/Spring/개념/빈 스코프(Bean Scope).md",
+    "BackEnd/Spring/JPA/Entity Manager.md",
     "BackEnd/Database/Entity(엔티티).md",
     "BackEnd/Spring/JPA/JPA 란.md",
     "BackEnd/Spring/JPA/JDBC.md",
@@ -166,14 +169,11 @@
     "BackEnd/Spring/JPA/JPQL.md",
     "BackEnd/Spring/JPA/Hibernate.md",
     "BackEnd/Spring/JPA/Entity(엔티티).md",
-    "BackEnd/Spring/JPA/Entity Manager.md",
     "BackEnd/Spring/JPA/플러시(Flush).md",
     "BackEnd/Spring/JPA/영속성 컨텍스트.md",
     "BackEnd/Spring/JPA/연관 관계 매핑.md",
     "BackEnd/Spring/JPA/변경감지(Dirty Checking).md",
     "BackEnd/Spring/Annotation/@RestController.md",
-    "BackEnd/Spring/Annotation/@GetMapping.md",
-    "BackEnd/Spring/Annotation/@Controller.md",
     "Language/Java/문법",
     "Language/Java/개념",
     "Language/Java",

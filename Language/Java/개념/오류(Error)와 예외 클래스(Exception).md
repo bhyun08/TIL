@@ -14,12 +14,13 @@
 
 ![Runtime Error](https://blog.kakaocdn.net/dn/daaSR8/btrMxEiWv6g/GTFbMlkhgtjAi4izITeKg0/img.png)
 
-자바 프로그래밍에서는 실행 시(runtime) 발생할 수 있는 오류를 '**에러(error)**'와 '**예외(exception)**' 두가지로 구분 하였다.
+자바 프로그래밍에서는 실행 시(runtime) 발생할 수 있는 오류를 '**에러(error)**'와 '**예외(exception)**' 두가지로 구분 하였다. 오류(Error)와 예외(exception)클래스는 모두 Throwable 클래스를 상속받고 Throwable 클래스는 Object 클래스를 상속 받는다.
 
 - 에러(error) : 프로그램 코드에 의해서 수습될 수 없는 심각한 오류
 - 예외(exception) : 프로그램 코드에 의해서 수습될 수 있는 다소 미약한 오류
 
 따라서 개발자는 예외 처리(exception handling)를 통해 언제나예외 상황을 처리하여 프로그램이 종료되는 일이 없록 코드의 흐름을 바꿀 필요가 있다.
+### 자바의 예외(Exception) 클래스
 
 
 [[예외 처리]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/Java/개념/예외 처리.md",
+                "file": "Language/Java/개념/오류(Error).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language/Java/개념/예외 처리.md",
+                "file": "Language/Java/개념/오류(Error).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language/Java/개념/예외 처리.md",
+                "file": "Language/Java/개념/오류(Error).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Language/Java/개념/예외 처리.md"
+                "file": "Language/Java/개념/오류(Error).md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "2f69bd88d8fbe61a",
   "lastOpenFiles": [
-    "Language/Java/개념/상속.md",
-    "Language/Java/개념/오버라이딩(Overriding).md",
     "Language/Java/개념/예외 처리.md",
+    "Language/Java/개념/오류(Error).md",
+    "Language/Java/개념/오버라이딩(Overriding).md",
+    "Language/Java/개념/상속.md",
     "Language/Java/문법/도트(dot) 연산자.md",
     "Language/Java/문법/extends와 implements.md",
     "Language/Java/문법/New 연산자.md",
@@ -173,7 +174,6 @@
     "Devops/Container/Container 란.md",
     "Devops/Container/Docker/Docker 란.md",
     "BackEnd/Spring/JPA/JPQL 사용.md",
-    "BackEnd/Spring/JPA/JPQL.md",
     "Language/Java/문법",
     "Language/Java/개념",
     "Language/Java",

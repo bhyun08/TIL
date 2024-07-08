@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OS/Linux/무제 파일.md",
+                "file": "Language/Java/문법/extends와 implements.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/Linux/무제 파일.md",
+                "file": "Language/Java/문법/extends와 implements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/Linux/무제 파일.md",
+                "file": "Language/Java/문법/extends와 implements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/Linux/무제 파일.md"
+                "file": "Language/Java/문법/extends와 implements.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "2f69bd88d8fbe61a",
   "lastOpenFiles": [
+    "Language/Java/문법/컬렉션 프레임워크(Collection Framework).md",
+    "OS/Linux/무제 파일.md",
     "Language/Java/Java.md",
     "Language/Java/개념/클래스(Class)와 객체.md",
     "Language/Java/개념/오버로딩(Overloading).md",
@@ -172,8 +174,6 @@
     "BackEnd/Spring/Annotation/@Controller.md",
     "BackEnd/Spring/Annotation/@Autowired.md",
     "BackEnd/Spring/Annotation/Lombok Annotation/@Getter.md",
-    "BackEnd/Spring/개념/DTO.md",
-    "BackEnd/Spring/개념/의존성 주입(DI).md",
     "Language/Java/문법",
     "Language/Java/개념",
     "Language/Java",

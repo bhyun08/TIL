@@ -9,4 +9,18 @@
    - 컴파일 에러 발생의 대표적인 원인으로 문법 구문 오류(syntax error)가 있다.
 3. 런타임 에러
    - 프로그램 실행 중 발생하는 오류이다.
-   - 
+   - 대체로 개발 시 설계 미숙(논리적)으로 발생하는 에러가 대부분이며, 런타임 에러 발생 시 프로그래머가 역추적해서 원인 확인해야 한다. 
+### 오류(Error)와 예외(Exception)
+
+![Runtime Error](https://blog.kakaocdn.net/dn/daaSR8/btrMxEiWv6g/GTFbMlkhgtjAi4izITeKg0/img.png)
+
+자바 프로그래밍에서는 실행 시(runtime) 발생할 수 있는 오류를 '**에러(error)**'와 '**예외(exception)**' 두가지로 구분 하였다.
+
+- 에러(error) : 프로그램 코드에 의해서 수습될 수 없는 심각한 오류
+- 예외(exception) : 프로그램 코드에 의해서 수습될 수 있는 다소 미약한 오류
+
+따라서 개발자는 예외 처리(exception handling)를 통해 언제나예외 상황을 처리하여 프로그램이 종료되는 일이 없록 코드의 흐름을 바꿀 필요가 있다.
+
+
+[[예외 처리]]
+

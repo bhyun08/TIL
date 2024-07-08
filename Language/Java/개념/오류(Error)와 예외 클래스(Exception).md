@@ -31,3 +31,20 @@ JVM은 프로그램을 실행하는 도중에 예외가 발생하면 해당 예�
 ##### 런타임에러 vs 컴파일에러
 
 ![Language/Java](https://blog.kakaocdn.net/dn/pW5yl/btrMye5lmK3/5TkR8hcVZi9xFk3xFTjAKk/img.png)
+
+Exception 클래스는 다시 RuntimeException(런타임 에러를 다룸)과 그 외의 자식 클래스 그룹(컴파일 에러를 다룸)으로 나뉘게 된다.
+- Exception 및 하위 클래스 : 사용자의 실수와 같은 외적인 요인에 의해 발생하는 컴파일시 발생하는 예외
+- RuntimeException 클래스 : 프로그래머의 실수로 발생하는 예외
+##### Checked Exception vs Unchecked Exception
+
+![Checked Exception / Unchecked Exception](https://blog.kakaocdn.net/dn/MThfh/btrRtcbb2Xl/zR5vUkvvJNLOPo7kXhkQHK/img.png)
+
+자바의 예외(Exception)는 컴파일 에러와 런타임 에러로 구분된다. 그런데 또다시 예외는 예외의 종류로서 Checked Exception 과 Unchecked Exception 으로 나뉜다.
+이는 Checked Exception은 컴파일 예외클래스들을 가리키는 것이고, Unchecked Exception은 런타임 예외클래스들을 가리키는 것으로 보면 된다.
+
+checked Exception은 반드시 예외를 처리해야하고, Unchecked Exception은 명시적인 처리를 하지 않아도 된다.
+
+[[예외 처리]]
+
+
+

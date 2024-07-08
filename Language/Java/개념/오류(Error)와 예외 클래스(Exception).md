@@ -21,6 +21,14 @@
 
 따라서 개발자는 예외 처리(exception handling)를 통해 언제나예외 상황을 처리하여 프로그램이 종료되는 일이 없록 코드의 흐름을 바꿀 필요가 있다.
 ### 자바의 예외(Exception) 클래스
+##### 예외 클래스 계층 구조
+자바에서는 오류를 Error와 Exception으로 나누었고 이들을 클래스로 구현하여 처리하도록 하였다. 우리에게 익숙한 IllegalArgumentException을 비롯해 NullPointerException과 IOException도 모두 클래스이다.   
+JVM은 프로그램을 실행하는 도중에 예외가 발생하면 해당 예외 클래스로 객체를 생성하고서 예외 처리 코드에서 예외 객체를 이용할 수 있도록 해준다.
+
+![Language/Java](https://blog.kakaocdn.net/dn/c2FA9K/btrMC0ghD9Q/aYBYxY27KrQwASlBbbzyPk/img.png)
+
+
+
 
 
 [[예외 처리]]

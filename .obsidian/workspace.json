@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/Java/문법/extends와 implements.md",
+                "file": "BackEnd/Spring/JPA/Entity Manager.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language/Java/문법/extends와 implements.md",
+                "file": "BackEnd/Spring/JPA/Entity Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language/Java/문법/extends와 implements.md",
+                "file": "BackEnd/Spring/JPA/Entity Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Language/Java/문법/extends와 implements.md"
+                "file": "BackEnd/Spring/JPA/Entity Manager.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "2f69bd88d8fbe61a",
   "lastOpenFiles": [
+    "BackEnd/Database/Entity(엔티티).md",
+    "BackEnd/Spring/JPA/JPA 란.md",
+    "BackEnd/Spring/JPA/JDBC.md",
+    "Language/Java/문법/extends와 implements.md",
     "Language/Java/문법/컬렉션 프레임워크(Collection Framework).md",
     "OS/Linux/무제 파일.md",
     "Language/Java/Java.md",
@@ -160,8 +164,6 @@
     "Devops/Container/Docker/Docker 란.md",
     "BackEnd/Spring/JPA/JPQL 사용.md",
     "BackEnd/Spring/JPA/JPQL.md",
-    "BackEnd/Spring/JPA/JPA 란.md",
-    "BackEnd/Spring/JPA/JDBC.md",
     "BackEnd/Spring/JPA/Hibernate.md",
     "BackEnd/Spring/JPA/Entity(엔티티).md",
     "BackEnd/Spring/JPA/Entity Manager.md",
@@ -172,8 +174,6 @@
     "BackEnd/Spring/Annotation/@RestController.md",
     "BackEnd/Spring/Annotation/@GetMapping.md",
     "BackEnd/Spring/Annotation/@Controller.md",
-    "BackEnd/Spring/Annotation/@Autowired.md",
-    "BackEnd/Spring/Annotation/Lombok Annotation/@Getter.md",
     "Language/Java/문법",
     "Language/Java/개념",
     "Language/Java",

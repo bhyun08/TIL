@@ -27,9 +27,7 @@ JVM은 프로그램을 실행하는 도중에 예외가 발생하면 해당 예�
 
 ![Language/Java](https://blog.kakaocdn.net/dn/c2FA9K/btrMC0ghD9Q/aYBYxY27KrQwASlBbbzyPk/img.png)
 
+**Error 클래스**는 위에서 언급한 바와 같이 외부적인 요인으로 인해 발생하는 오류이기 때문에 개발자가 대처 할 수는 없다. 따라서 우리가 처리할 수 있는 클래스는 바로 **Exception 클래스**이다.
+##### 런타임에러 vs 컴파일에러
 
-
-
-
-[[예외 처리]]
-
+![Language/Java](https://blog.kakaocdn.net/dn/pW5yl/btrMye5lmK3/5TkR8hcVZi9xFk3xFTjAKk/img.png)

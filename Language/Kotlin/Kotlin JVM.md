@@ -1,4 +1,4 @@
-Kotlin is run on the JVM(Java-Virtual-Machine). JVM is a virtual machine that enables a computer to run Java programs as well as programs written in other languages that are also compiled to Java bytecode. So, Kotlin can run in JVM.   
+Kotlin is run on the JVM(Java-Virtual-Machine). JVM is a virtual machine that enables a computer to run Java programs as well as programs written in other languages that are also compiled to Java bytecode. So, Kotlin can run on the JVM.   
 # JVM structure
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*lB1hKWRDWznJ5JTBtUoeRQ.png)
 Kotlin also goes through a transformation process, the same as Java.

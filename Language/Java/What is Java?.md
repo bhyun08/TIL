@@ -1,5 +1,5 @@
-Java is an **Object-Oriented** Programming Language.
-So, Java is used to develop **Object-Oriented** Programs.
+Java is an **Object-Oriented** Programming Language.    
+So, Java is used to develop **Object-Oriented** Programs.    
 
 ## Java's Pros and Cons
 

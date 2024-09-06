@@ -1,0 +1,1 @@
+Kotlin is programming language developed by **JetBrains**. And Kotlin was designed to run **JVM(Java-Vitual-Machine)**.  

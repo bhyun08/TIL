@@ -8,4 +8,4 @@ Welomce To come Byung hyun's TIL 😁
 📦Backend   
 📦Language   
 ┗ 📂Java   
-┃ ┗ 📜<a href = "https://github.com/bhyun08/TIL/blob/main/Language/Java/What%20is%20Java%3F.md">What is Java?</a>
+┃ ┗ 📜[[What is Java?]]

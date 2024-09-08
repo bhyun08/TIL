@@ -9,5 +9,6 @@ Script Language is language to control software that already exists. Script Lang
 - Can insert other language
 
 ---
-Reference link 🙂         
+Reference link 🙂    
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript       
 https://namu.wiki/w/%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%EC%96%B8%EC%96%B4

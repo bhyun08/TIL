@@ -7,7 +7,7 @@ Welcome To come Byunghyun's TIL 😁
 ---
 **TIL**       
  ┣ 📂Backend        
- ┃ ┗ 📂Spring Boot          
+ ┃ ┗ 📂Spring              
  ┣ 📂Language        
  ┃ ┣ 📂Java          
  ┃ ┃ ┣ 📜[[Difference between .class file and class]]            

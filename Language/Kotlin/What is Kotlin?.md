@@ -14,4 +14,3 @@ In other words **Kotlin is a Java high-level compatible language**.
 ---
 Reference link 🙂   
 https://kotlinlang.org/docs/coroutines-basics.html     
-https://velog.io/@bhyun08/Kotlin-코틀린Kotlin언어에-대해-알아보자

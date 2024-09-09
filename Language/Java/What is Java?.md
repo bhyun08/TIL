@@ -13,4 +13,3 @@ So, Java is used to develop **Object-Oriented** Programs.
 - Uses more memory
 ---
 Reference link 🙂   
-https://velog.io/@bhyun08/자바Java언어란-무엇일까

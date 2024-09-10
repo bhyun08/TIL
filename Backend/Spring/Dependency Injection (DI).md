@@ -1,4 +1,4 @@
-Dependency Injection(DI) is to define relationships between objects. When Spring Container makes bean object, Spring Container inject dependency between objects.
+Dependency Injection(DI) is to define relationships between objects. When Spring Container makes bean object, Spring Container inject dependency between objects. In this situation, happen [[Inversion of Control (IoC)]] phenomenon.
 
 **The object does not look up its dependencies and does not know the location or class of the dependencies.**
 

@@ -1,7 +1,7 @@
 Kotlin is programming language developed by **JetBrains**. And Kotlin was designed to run on the **JVM(Java-Virtual-Machine)**. Kotlin is compatible **100%** with Java and provide concise grammar better than Java.
 
 In other words **Kotlin is a Java high-level compatible language**.
-## Kotlin's Pros
+### Kotlin's Pros
 - **Be compatible perfect with Java**   
   Kotlin is fully Java compatible and can interoperate with Java code.
 - **Concise**   

@@ -4,5 +4,6 @@
 [[What is Spring Web MVC?]]
 [[Dependency Injection (DI)]]
 [[Inversion of Control (IoC)]]
-[[What is Bean?]]
+[[Bean]]
 [[What is Spring & Spring Boot?]]
+[[IoC Container]]

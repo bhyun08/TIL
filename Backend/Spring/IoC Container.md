@@ -1,6 +1,6 @@
 IoC Container is container that manage [[Bean]] registering object by [[Inversion of Control (IoC)]]. [[Dependency Injection (DI)]] also work by IoC container. IoC container uses configuration metadata to manage the beans. IoC container also called Spring container. Because, Spring's major feature is IoC, many Spring Developers call like that.
 # Bean Factory vs Application Context
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*aZL8-0kNSgKyef9QGwgk4g.jpeg)
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*aZL8-0kNSgKyef9QGwgk4g.jpeg)             
 Spring manages these IoC containers as interface. Spring's IoC container is divide two class that Bean Factory and Application Context.
 ## Bean Factory
 It refers to the most basic IoC container and class responsible for creating beans and establishing dependencies. It is the top-level interface for accessing spring bin containers.

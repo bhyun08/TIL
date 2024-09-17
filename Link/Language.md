@@ -7,3 +7,4 @@
 [[Kotlin Type Inference]]
 [[var vs val]]
 [[What is Kotlin?]]
+[[What is Go?]]

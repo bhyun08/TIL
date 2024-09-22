@@ -12,5 +12,5 @@ In other words **Kotlin is a Java high-level compatible language**.
   A coroutine is an instance of a suspendable computation. This mean a function or method that can pause its execution at certain points and then resume later, without blocking the main thread of execution.          
   
 ---
-Reference link 🙂   
+Reference link 🙂       
 https://kotlinlang.org/docs/coroutines-basics.html     

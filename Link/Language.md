@@ -8,3 +8,5 @@
 [[var vs val]]
 [[What is Kotlin?]]
 [[What is Go?]]
+[[JDBC]]
+[[What is Python?]]

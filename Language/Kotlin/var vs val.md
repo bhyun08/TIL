@@ -1,5 +1,4 @@
 Kotlin's basic variable divided **var** and **val**.   
-
 # var
 var is can change variable (Mutable)       
 - variables declared var, may change their values multiple times during program running         

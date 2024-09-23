@@ -14,7 +14,7 @@ dat is Int // return false
 dat is String // return true
 ```
 ## as Operator
-as Operator use in situation that you want to change data type. But, as Operator can applies to only [[Any]] data type. However, if it is not a variable, as Operator can use to class, interface and so on.
+as Operator use in situation that you want to change data type. But, as Operator can applies to only [[Kotlin Any]] data type. However, if it is not a variable, as Operator can use to class, interface and so on.
 
 **Example**
 ```kotlin

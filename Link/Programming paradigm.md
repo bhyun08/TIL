@@ -1,1 +1,2 @@
 [[Functional programming]]
+[[Declarative Programming]]

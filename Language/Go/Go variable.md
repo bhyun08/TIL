@@ -43,3 +43,7 @@ Second, Inside the function, type inference is possible using the ':=' operator.
 | **Type Inference** | auto             | auto                     |
 | **Scope**          | global variable  | only in a function       |
 | **Code brevity**   | longer           | more concise             |
+
+---
+Reference link 🙂    
+https://341123.tistory.com/25

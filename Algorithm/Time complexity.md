@@ -13,7 +13,7 @@ Big-O notation is the simple way that show how many operate algorithm when is in
 
 ---
 Reference link 🙂     
-https://en.wikipedia.org/wiki/Time_complexity
+https://en.wikipedia.org/wiki/Time_complexity          
 https://medium.com/@verdi/understanding-big-o-notation-for-the-newbie-dev-720c6f3446fd
 
 Reference Book 📕

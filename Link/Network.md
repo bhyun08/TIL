@@ -3,3 +3,8 @@
 [[Network Node]]
 [[Routing]]
 [[Router]]
+[[DNS]]
+[[Domain Name]]
+[[Web Browser]]
+[[Public DNS Server]]
+[[ISP DNS Server]]

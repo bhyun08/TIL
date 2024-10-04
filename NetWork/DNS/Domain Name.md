@@ -1,6 +1,6 @@
 Domain Name is a person-readable address that user use to access certain websites or services on the Internet. Domain names replace the website's IP address, helping users access Internet resources in a way that is easy to remember and easy to understand.
 ![](https://velog.velcdn.com/images/jisoolee11/post/d12529da-1d2d-4be3-94aa-3fbccfef58c8/image.png)      
-Each domain name is unique and mapped to a specific IP address that follows it. For example, the domain name "google.com " is converted to the IP address of a Google server, which allows users to access Google's website. In this step, [[DNS]] work.
+Each domain name is unique and mapped to a specific IP address that follows it. For example, the domain name "google.com " is converted to the IP address of a Google server, which allows users to access Google's website. In this step, [[Network/DNS/DNS]] work.
 # Domain name structure
 Domain name consist of many part that is differentiated dot(`.`).
 1. **TLD(Top Level Domain)**

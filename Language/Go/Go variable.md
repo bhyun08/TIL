@@ -1,7 +1,7 @@
 In the Go language, variables refer to the memory space for storing values, and you can store data for a specific type. It is also possible to **infer** types when declaring variables. 
 # Go variable role
-1. Variable names can only begin with a letter or _.  
-2. You can then use all numbers and letters, _.  
+1. Variable names can only begin with a letter or underbar(`_`).  
+2. You can then use all numbers and letters, underbar(`_`).  
 3. Case-sensitive.  
 4. Golang's keyword is not available.  
 5. There is no length limit.

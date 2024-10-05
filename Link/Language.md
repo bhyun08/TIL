@@ -18,3 +18,5 @@
 [[? operator]]
 [[Python Data Structures]]
 [[Go variable]]
+[[Java Stream I.O]]
+[[Java Stream API]]

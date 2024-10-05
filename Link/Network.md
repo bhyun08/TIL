@@ -11,3 +11,4 @@
 [[HTTP Status Code]]
 [[HTTP Method]]
 [[PUT vs PATCH]]
+[[Hosting]]

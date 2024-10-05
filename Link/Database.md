@@ -1,3 +1,6 @@
 [[DB|DB]]
 [[DBMS]]
 [[ORM]]
+[[Transaction]]
+[[ACID]]
+[[Normalization]]

@@ -1,4 +1,4 @@
-Bean is object that is managed by Spring Container(IoC Container). When object register bean, Spring Framework manage object. Because the Spring Framework manages objects, it can perform functions such as dependency injection.
+Bean is object that is managed by Spring Container(IoC Container). If object register as bean, then Spring Framework manage object. Because the Spring Framework manages objects, it can perform functions such as dependency injection.
 # How to register object as a bean?
 We can have 3 way that register object as a bean.
 ### XML

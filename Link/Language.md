@@ -20,3 +20,4 @@
 [[Go variable]]
 [[Java Stream I.O]]
 [[Java Stream API]]
+[[Kotlin Constructor]]

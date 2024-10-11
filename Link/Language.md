@@ -20,4 +20,5 @@
 [[Go variable]]
 [[Java Stream I.O]]
 [[Java Stream API]]
-[[Kotlin Constructor]]
+[[Kotlin Singleton Object]]
+[[Kotlin Data Class]]

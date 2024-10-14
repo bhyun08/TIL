@@ -13,3 +13,5 @@
 [[Docker Registry]]
 [[Docker Container]]
 [[Docker Engine]]
+[[Resource allocation and management to Docker Container]]
+[[Bind the IP port of eth0 to the IP and port of the host]]
